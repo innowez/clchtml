@@ -16,74 +16,85 @@
                 </form>
             </div>
         </div>
-        <div class="row justify-content-center mt-0">
+        <div class="row justify-content-center mt-20">
             <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="ielts.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-01.png" class="img-fluid w-100" alt="">
                     </div>
+
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>IELTS</h6>
                         </div>
                     </div>
-                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
+                    <p>Get trained on our world-class IELTS coaching. The program deals with the four modules of Listening, Reading, Writing & Speaking at length and prepares you with the skills as well as strategies that would help you excel. Personalized training and practice sessions help you meet your target band and gain a world of opportunities.</p>
                     <a class="mt-auto" href="ielts.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
             <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="oet.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-02.png" class="img-fluid w-100" alt="">
                     </div>
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>OET</h6>
                         </div>
                     </div>
-                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
+                    <p>Realize your professional aspirations with our targeted OET tutoring services. Our specialized program for medical professionals boosts their language skills according to medical situations for superior performance in Listening, Reading, Writing, and Speaking modules with expert guidance along with focused practice sessions.</p>
                     <a class="mt-auto" href="oet.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
             <div data-aos="fade-up" data-aos-duration="3000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="pte.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-03.png" class="img-fluid w-100" alt="">
                     </div>
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>PTE</h6>
                         </div>
                     </div>
-                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
+                    <p>Our PTE coaching prepares you for success by unlocking your potential. The program highly focuses on Speaking, Writing, Reading, and Listening, with strategies for each module. Score well with Personal Guide, mock exams, and sure-shot techniques to do well in the Pearson Test of English.</p>
                     <a class="mt-auto" href="pte.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
             <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="german.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-04.png" class="img-fluid w-100" alt="">
                     </div>
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>German</h6>
                         </div>
                     </div>
-                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
+                    <p>A new opportunity is unfolding for the German Language course. For beginners and also for those who wish to improve upon their already learned language skills, this course offers general knowledge from grammar, and vocabulary, to conversational fluency. Expert guidance and interesting lessons make learning German engaging and effective and impart new skills for personal, academic, or professional development.</p>
                     <a class="mt-auto" href="german.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
             <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="spoken-english.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-05.png" class="img-fluid w-100" alt="">
                     </div>
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>Spoken English</h6>
                         </div>
                     </div>
-                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
+                    <p>Learn how to speak fluently through combining spoken English statements. The actual lesson is aimed at bringing up vocabulary and pronunciation in conversational level. Enhancing fluency in personal, academic, and professional settings with expert guidance and interactive learning methods.</p>
                     <a class="mt-auto" href="spoken-english.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
@@ -103,8 +114,8 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 text-center">
-                <h2 class="color_white">Welcome TO CLC</h2>
-                <p class="color_white mt-40">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci deleniti fugit ipsa iste, nam neque sed! Aliquam aspernatur assumenda cumque deleniti eius eum exercitationem hic ipsa nam necessitatibus nostrum obcaecati officia officiis quae quos repellendus sapiente sed, sunt voluptates.</p>
+                <h2 class="color_white">ACHIEVE YOUR DREAMS WITH THE CLC COACHING CENTRE IN KOZHIKODE</h2>
+                <p class="color_white mt-40">Achieve your dream with the CLC Coaching Centre at Kozhikode, where expert faculties, personalized coaching, and a result-oriented approach help a student excel in competitive exams as well as the language proficiency test. Enroll now at the CLC Coaching Centre in Kozhikode.</p>
             </div>
         </div>
     </div>
@@ -145,18 +156,18 @@
         </div>
     </div>
     <div class="container containerFull position-relative mt-50">
-        <div class="testimonialSlider" data-aos="fade-up" data-aos-duration="1000">
+    <div class="testimonialSlider" data-aos="fade-up" data-aos-duration="1000">
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
+                    <p>CLC transformed my approach to studying. The personalized coaching and mock tests boosted my confidence and led to my success in the OET!"</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Anil R</h5>
+                            <p> </p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
@@ -166,14 +177,14 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, veniam.</p>
+                    <p>I never thought I could achieve my desired IELTS score, but CLC Coaching Centre made it possible! The trainers were incredibly supportive and helped me every step of the way</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Priya M</h5>
+                            <p>Calicut</p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
                     </div>
@@ -182,14 +193,14 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, quam? CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
+                    <p>The faculty at CLC is outstanding! They are not only knowledgeable but also genuinely care about their students’ progress. I highly recommend CLC!"</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Sneha K.</h5>
+                            <p></p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
                     </div>
@@ -198,14 +209,92 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, quam? CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
+                    <p>The interactive sessions at CLC made learning enjoyable. I looked forward to every class and gained so much from the experience!"</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Rahul S</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>I struggled with certain concepts until I joined CLC. The personalized attention helped me grasp everything I needed to succeed!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Meera T.</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>The mock tests were a game-changer for me. They helped me identify my weaknesses and turn them into strengths before my exams!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Vikram J.</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>Choosing CLC was one of the best decisions I’ve made for my academic journey. The coaching here is truly top-notch!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Aisha L</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>Choosing CLC was one of the best decisions I’ve made for my academic journey. The coaching here is truly top-notch!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Aisha L</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>CLC Coaching Centre is where dreams become reality! I owe my success to their dedicated team of trainers. Highly recommend!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5> Shreya M.</h5>
+                            <p> </p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
                     </div>
@@ -213,72 +302,7 @@
             </div>
         </div>
 
-        <div class="testimonialSlider02 mt-40" data-aos="fade-up" data-aos-duration="3000">
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, veniam.</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, quam? CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, quam? CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+ 
     </div>
 </section>
 

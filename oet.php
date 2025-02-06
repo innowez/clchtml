@@ -10,10 +10,10 @@
     <div class="container position-relative">
         <div class="row">
             <div class="col-12">
-                <div class="courseBannerWrap">
+            <div class="courseBannerWrap">
                     <img src="assets/images/courses/courses-03.jpg" class="img-fluid w-100" alt="">
-                    <h1 class="color_white fw-bold font-size-48 mb-10">IELTS Coaching Centre in Kozhikode</h1>
-                    <p>Are you in search of the premier IELTS coaching centre in Kozhikode? Look no further than CLC, where excellence converges with IELTS success, offering an unparalleled learning experience.</p>
+                    <h1 class="color_white fw-bold font-size-48 mb-10">ACHIEVE YOUR DREAMS WITH THE CLC COACHING CENTRE IN KOZHIKODE</h1>
+                    <p>Achieve your dream with the CLC Coaching Centre at Kozhikode, where expert faculties, personalized coaching, and a result-oriented approach help a student excel in competitive exams as well as the language proficiency test. Enroll now at the CLC Coaching Centre in Kozhikode.</p>
                 </div>
             </div>
         </div>
@@ -25,26 +25,29 @@
         <div class="row mt-60">
             <div class="col-lg-6">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold">CCL IELTS Coaching Center in Kozhikode: Unlocking Your Path to Success</h4>
-                    <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto at ducimus error et ipsam nesciunt, perspiciatis provident quam quidem quod? Deleniti maiores nemo neque numquam optio perspiciatis quibusdam sit, tempore. Accusamus autem est, facilis fugiat inventore ipsum magni necessitatibus odio omnis quasi quo sequi temporibus!</p>
+                    <h4 class="color_white fw-bold"> Enroll now at the CLC Coaching Centre in Kozhikode</h4>
+                    <p class="mt-20">Enroll now at CLC Coaching Centre in Kozhikode and take a step closer to success! With experienced mentors, structured courses, and a student-focused approach, we help you excel in competitive exams, Spoken English, IELTS, OET, and PTE. Unlock your full potential with the best coaching and guidance. Join CLC today and shape your future. </p>
                 </div>
             </div>
             <div class="col-lg-6 mt-lg-0 mt-4">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold">CCL IELTS Coaching Center in Kozhikode: Unlocking Your Path to Success</h4>
-                    <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto at ducimus error et ipsam nesciunt, perspiciatis provident quam quidem quod? Deleniti maiores nemo neque numquam optio perspiciatis quibusdam sit, tempore. Accusamus autem est, facilis fugiat inventore ipsum magni necessitatibus odio omnis quasi quo sequi temporibus!</p>
+                    <h4 class="color_white fw-bold"> Transform your future with the right guidance</h4>
+                    <p class="mt-20">Transform your future with the right guidance at the CLC Coaching Centre in Kozhikode! Expert trainers, structured courses, and a personalized approach to make you excel in competitive exams like IELTS, OET, and PTE. Whether it is higher studies or career advancement, we help you with all the support and strategies needed to succeed. Join us today and take the first step toward a brighter future.</p>
                 </div>
             </div>
         </div>
         <div class="row justify-content-center mt-60">
             <div class="col-md-10 col-lg-7">
-                <h4 class="color_white fw-bold text-center">CCL IELTS Coaching Center in Kozhikode: Unlocking Your Path to Success</h4>
+                <h4 class="color_white fw-bold text-center">CLC IELTS COACHING CENTER IN KOZHIKODE: UNLOCKING YOUR PATH TO SUCCESS</h4>
                 <div class="textWrapper mt-20">
                     <ul>
-                        <li><b>Affordable and Comprehensive Classes:</b> CLC offers affordable and comprehensive IELTS preparatory classes designed to maximize your success.</li>
-                        <li><b>Holistic Approach:</b> Our coaching encompasses all four modules: Speaking, Listening, Reading, and Writing.</li>
-                        <li><b>Flexible Teaching Methods:</b> From group sessions to personalized one-on-one coaching, ensuring each student receives individual attention.</li>
-                        <li><b>Proven Track Record:</b> CLC has a proven track record of guiding students to achieve high scores in the IELTS exam.</li>
+                        <li><b>Expert Trainers:</b> Learn from the most qualified and experienced IELTS trainers.</li>
+                        <li><b>Personalized Coaching:</b> Strategically designed for your target band score.</li>
+                        <li><b>Flexible Batches:</b> Morning, evening, and weekend classes to suit your schedule.</li>
+                        <li><b>Proven Results:</b>High success rate with students achieving Band 7+ and beyond.</li>
+                        <li><b>Interactive Learning:</b>Engaging sessions, real-time feedback, and practical exercises.</li>
+                        <li><b>Affordable Fees:</b>Quality training at budget-friendly rates.</li>
+
                     </ul>
                 </div>
             </div>
@@ -59,34 +62,57 @@
                 <div class="coachingWrap">
                     <h4 class="color_white fw-bold text-center">Tailored IELTS Coaching Formats for Your Needs</h4>
                     <p class="text-center mt-15">Feeling anxious about the IELTS test? CLC simplifies the four different IELTS modules to accommodate various learning styles. Take IELTS easily with the best IELTS Coaching centre in Kozhikode, Kerala.</p>
-                    <div class="row mt-10 justify-content-center">
+                   <div class="row mt-10 justify-content-center">
                         <div class="col-md-6 col-lg-4 mt-20">
-                            <div class="coachingFormat">
-                                <h5 class="mb-15">1-month crash course.</h5>
-                                <p class="mb-10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, non?</p>
+                            <div class="coachingFormat  textWrapper">
+                                <h5 class="mb-15"> Beginner  </h5>
+                                <p class="mb-10"><b>CourseDuration:</b> 8 Weeks</p>
+                                <p class="mb-10"><b>Mock Tests:</b>  weekly</p>
                                 <ul>
-                                    <li><b>Lorem ipsum dolor</b> sit amet, consectetur adipisicing.</li>
-                                    <li><b>Dolor sit amet</b> consectetur adipisicing.</li>
+                                    <li>Basic grammar & vocabulary </li>
+                                    <li>Speaking practice for beginners </li>
+                                    <li>Listening exercises with transcripts
+                                    </li>
+                                    <li>Simple writing & reading tasks
+                                    </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4 mt-20">
-                            <div class="coachingFormat">
-                                <h5 class="mb-15">2-month intermediate course.</h5>
-                                <p class="mb-10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, alias.</p>
+                        <div class="coachingFormat  textWrapper">
+                                <h5 class="mb-15"> Beginner  </h5>
+                                <p class="mb-10"><b>CourseDuration:</b> 12 Weeks</p>
+                                <p class="mb-10"><b>Mock Tests:</b>  Weekly</p>
                                 <ul>
-                                    <li><b>Lorem ipsum dolor</b> sit amet, consectetur adipisicing.</li>
-                                    <li><b>Dolor sit amet</b> consectetur adipisicing.</li>
+                                    <li>Advanced writing techniques
+                                    </li>
+                                    <li>Fluency-focused speaking sessions
+                                    </li>
+                                    <li>Time management strategies
+
+                                    </li>
+                                    <li>In-depth reading comprehension
+
+                                    </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4 mt-20">
-                            <div class="coachingFormat">
-                                <h5 class="mb-15">4-month intensive course.</h5>
-                                <p class="mb-10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, ut.</p>
+                        <div class="coachingFormat  textWrapper">
+                                <h5 class="mb-15"> Crash  </h5>
+                                <p class="mb-10"><b>CourseDuration:</b>4 Weeks</p>
+                                <p class="mb-10"><b>Mock Tests:</b>  Everyday
+                                </p>
                                 <ul>
-                                    <li><b>Lorem ipsum dolor</b> sit amet, consectetur adipisicing.</li>
-                                    <li><b>Dolor sit amet</b> consectetur adipisicing.</li>
+                                    <li>Intensive exam strategies
+                                    </li>
+                                    <li>Daily speaking practice
+                                    </li>
+                                    <li>Timed mock test simulations
+
+                                    </li>
+                                    <li>Writing feedback & corrections
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -109,18 +135,18 @@
         </div>
     </div>
     <div class="container containerFull position-relative mt-50">
-        <div class="testimonialSlider" data-aos="fade-up" data-aos-duration="1000">
+    <div class="testimonialSlider" data-aos="fade-up" data-aos-duration="1000">
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
+                    <p>CLC transformed my approach to studying. The personalized coaching and mock tests boosted my confidence and led to my success in the OET!"</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Anil R</h5>
+                            <p> </p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
@@ -130,14 +156,14 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, veniam.</p>
+                    <p>I never thought I could achieve my desired IELTS score, but CLC Coaching Centre made it possible! The trainers were incredibly supportive and helped me every step of the way</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Priya M</h5>
+                            <p>Calicut</p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
                     </div>
@@ -146,14 +172,14 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, quam? CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
+                    <p>The faculty at CLC is outstanding! They are not only knowledgeable but also genuinely care about their students’ progress. I highly recommend CLC!"</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Sneha K.</h5>
+                            <p></p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
                     </div>
@@ -162,14 +188,92 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, quam? CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
+                    <p>The interactive sessions at CLC made learning enjoyable. I looked forward to every class and gained so much from the experience!"</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Rahul S</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>I struggled with certain concepts until I joined CLC. The personalized attention helped me grasp everything I needed to succeed!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Meera T.</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>The mock tests were a game-changer for me. They helped me identify my weaknesses and turn them into strengths before my exams!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Vikram J.</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>Choosing CLC was one of the best decisions I’ve made for my academic journey. The coaching here is truly top-notch!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Aisha L</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>I can’t thank the team at CLC enough for their support! Their commitment to student success is evident in everything they do.</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Arjun P.</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>CLC Coaching Centre is where dreams become reality! I owe my success to their dedicated team of trainers. Highly recommend!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5> Shreya M.</h5>
+                            <p> </p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
                     </div>
@@ -230,7 +334,7 @@
                                 </div>
                                 <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>Yes, you can attend IELTS preparation classes online. Many platforms offer flexible online courses with live sessions, practice tests, and study materials.</p>
                                     </div>
                                 </div>
                             </div>
@@ -238,12 +342,13 @@
                                 <div class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you provide any study materials for IELTS ?</h6>
+                                        <h6>Do you provide any study materials for IELTS ?
+                                        </h6>
                                     </button>
                                 </div>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>I don't provide study materials directly, but I can recommend resources and guide you on what to focus on for the IELTS exam. Let me know what you need help with!</p>
                                     </div>
                                 </div>
                             </div>
@@ -256,7 +361,7 @@
                                 </div>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>We don't offer one-on-one coaching or tutoring, but we can assist with personalized tips, practice exercises, and guidance for your IELTS preparation.</p>
                                     </div>
                                 </div>
                             </div>
@@ -266,38 +371,12 @@
                                 <div class="accordion-header" id="headingOneRight">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Can I attend IELTS preparation classes online ?</h6>
+                                        <h6>Do you offer one-on-one coaching or tutoring ?</h6>
                                     </button>
                                 </div>
                                 <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="headingTwoRight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoRight" aria-expanded="false" aria-controls="collapseTwo">
-                                        <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you provide any study materials for IELTS ?</h6>
-                                    </button>
-                                </div>
-                                <div id="collapseTwoRight" class="accordion-collapse collapse" aria-labelledby="headingTwoRight" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="headingThreeRight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreeRight" aria-expanded="false" aria-controls="collapseThree">
-                                        <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you offer one-on-one coaching or tutoring ?</h6>
-                                    </button>
-                                </div>
-                                <div id="collapseThreeRight" class="accordion-collapse collapse" aria-labelledby="headingThreeRight" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>We don't offer one-on-one coaching or tutoring, but we can assist with personalized tips, practice exercises, and guidance for your IELTS preparation.</p>
                                     </div>
                                 </div>
                             </div>

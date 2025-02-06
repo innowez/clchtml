@@ -170,9 +170,12 @@
         <div class="row justify-content-center mt-20">
             <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="ielts.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-01.png" class="img-fluid w-100" alt="">
                     </div>
+
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>IELTS</h6>
@@ -184,9 +187,11 @@
             </div>
             <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="oet.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-02.png" class="img-fluid w-100" alt="">
                     </div>
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>OET</h6>
@@ -198,9 +203,11 @@
             </div>
             <div data-aos="fade-up" data-aos-duration="3000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="pte.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-03.png" class="img-fluid w-100" alt="">
                     </div>
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>PTE</h6>
@@ -212,9 +219,11 @@
             </div>
             <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="german.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-04.png" class="img-fluid w-100" alt="">
                     </div>
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>German</h6>
@@ -226,9 +235,11 @@
             </div>
             <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="spoken-english.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-05.png" class="img-fluid w-100" alt="">
                     </div>
+                </a>
                     <div class="nameBoxWrapper">
                         <div class="nameBox">
                             <h6>Spoken English</h6>
@@ -264,14 +275,14 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
+                    <p>CLC transformed my approach to studying. The personalized coaching and mock tests boosted my confidence and led to my success in the OET!"</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Anil R</h5>
+                            <p> </p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
@@ -281,14 +292,14 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, veniam.</p>
+                    <p>I never thought I could achieve my desired IELTS score, but CLC Coaching Centre made it possible! The trainers were incredibly supportive and helped me every step of the way</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Priya M</h5>
+                            <p>Calicut</p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
                     </div>
@@ -297,14 +308,14 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, quam? CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
+                    <p>The faculty at CLC is outstanding! They are not only knowledgeable but also genuinely care about their students’ progress. I highly recommend CLC!"</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Sneha K.</h5>
+                            <p></p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
                     </div>
@@ -313,14 +324,92 @@
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, quam? CLC Institute provided expert guidance and a supportive environment, helping me improve my IELTS score and enhance my language skills for both academic and professional growth.</p>
+                    <p>The interactive sessions at CLC made learning enjoyable. I looked forward to every class and gained so much from the experience!"</p>
                     <div class="profileInfo">
                         <div class="photo">
                             <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Adam Smith</h5>
-                            <p>IIMS University, Munich, Germany </p>
+                            <h5>Rahul S</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>I struggled with certain concepts until I joined CLC. The personalized attention helped me grasp everything I needed to succeed!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Meera T.</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>The mock tests were a game-changer for me. They helped me identify my weaknesses and turn them into strengths before my exams!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Vikram J.</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>Choosing CLC was one of the best decisions I’ve made for my academic journey. The coaching here is truly top-notch!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Aisha L</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>I can’t thank the team at CLC enough for their support! Their commitment to student success is evident in everything they do.</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5>Arjun P.</h5>
+                            <p> </p>
+                            <div class="my-rating-readonly" data-rating="5"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonialCard">
+                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
+                    <p>CLC Coaching Centre is where dreams become reality! I owe my success to their dedicated team of trainers. Highly recommend!</p>
+                    <div class="profileInfo">
+                        <div class="photo">
+                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="details">
+                            <h5> Shreya M.</h5>
+                            <p> </p>
                             <div class="my-rating-readonly" data-rating="5"></div>
                         </div>
                     </div>
@@ -328,7 +417,7 @@
             </div>
         </div>
 
-        <div class="testimonialSlider02 mt-40" data-aos="fade-up" data-aos-duration="3000">
+        <!-- <div class="testimonialSlider02 mt-40" data-aos="fade-up" data-aos-duration="3000">
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
@@ -393,7 +482,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <div class="container position-relative">
         <div class="row pt-90 justify-content-center">
@@ -427,7 +516,7 @@
                                 </div>
                                 <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>Yes, you can attend IELTS preparation classes online. Many platforms offer flexible online courses with live sessions, practice tests, and study materials.</p>
                                     </div>
                                 </div>
                             </div>
@@ -435,12 +524,13 @@
                                 <div class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you provide any study materials for IELTS ?</h6>
+                                        <h6>Do you provide any study materials for IELTS ?
+                                        </h6>
                                     </button>
                                 </div>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>I don't provide study materials directly, but I can recommend resources and guide you on what to focus on for the IELTS exam. Let me know what you need help with!</p>
                                     </div>
                                 </div>
                             </div>
@@ -453,7 +543,7 @@
                                 </div>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>We don't offer one-on-one coaching or tutoring, but we can assist with personalized tips, practice exercises, and guidance for your IELTS preparation.</p>
                                     </div>
                                 </div>
                             </div>
@@ -463,38 +553,12 @@
                                 <div class="accordion-header" id="headingOneRight">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Can I attend IELTS preparation classes online ?</h6>
+                                        <h6>Do you offer one-on-one coaching or tutoring ?</h6>
                                     </button>
                                 </div>
                                 <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="headingTwoRight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoRight" aria-expanded="false" aria-controls="collapseTwo">
-                                        <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you provide any study materials for IELTS ?</h6>
-                                    </button>
-                                </div>
-                                <div id="collapseTwoRight" class="accordion-collapse collapse" aria-labelledby="headingTwoRight" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="headingThreeRight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreeRight" aria-expanded="false" aria-controls="collapseThree">
-                                        <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you offer one-on-one coaching or tutoring ?</h6>
-                                    </button>
-                                </div>
-                                <div id="collapseThreeRight" class="accordion-collapse collapse" aria-labelledby="headingThreeRight" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>We don't offer one-on-one coaching or tutoring, but we can assist with personalized tips, practice exercises, and guidance for your IELTS preparation.</p>
                                     </div>
                                 </div>
                             </div>

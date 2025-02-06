@@ -38,46 +38,11 @@
                     <div class="imgBpx">
                         <img src="assets/images/blog/blog-02.png" class="img-fluid w-100" alt="">
                     </div>
-                    <h5 class="fw-SemiBold mt-20 color_white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, necessitatibus? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, necessitatibus?</h5>
+                    <h5 class="fw-SemiBold mt-20 color_white">UNLOCKING GLOBAL OPPORTUNITIES: THE IMPORTANCE OF LANGUAGE PROFICIENCY</h5>
                     <a class="mt-auto" href="blog-details.php"><h5 class="link text-start"> Read More </h5></a>
                 </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard blogCard">
-                    <div class="imgBpx">
-                        <img src="assets/images/blog/blog-01.png" class="img-fluid w-100" alt="">
-                    </div>
-                    <h5 class="fw-SemiBold mt-20 color_white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, atque!</h5>
-                    <a class="mt-auto" href="blog-details.php"><h5 class="link text-start"> Read More </h5></a>
-                </div>
-            </div>
-            <div data-aos="fade-up" data-aos-duration="3000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard blogCard">
-                    <div class="imgBpx">
-                        <img src="assets/images/blog/blog-02.png" class="img-fluid w-100" alt="">
-                    </div>
-                    <h5 class="fw-SemiBold mt-20 color_white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, quo?</h5>
-                    <a class="mt-auto" href="blog-details.php"><h5 class="link text-start"> Read More </h5></a>
-                </div>
-            </div>
-            <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard blogCard">
-                    <div class="imgBpx">
-                        <img src="assets/images/blog/blog-01.png" class="img-fluid w-100" alt="">
-                    </div>
-                    <h5 class="fw-SemiBold mt-20 color_white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, ipsam!</h5>
-                    <a class="mt-auto" href="blog-details.php"><h5 class="link text-start"> Read More </h5></a>
-                </div>
-            </div>
-            <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard blogCard">
-                    <div class="imgBpx">
-                        <img src="assets/images/blog/blog-02.png" class="img-fluid w-100" alt="">
-                    </div>
-                    <h5 class="fw-SemiBold mt-20 color_white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, velit.</h5>
-                    <a class="mt-auto" href="blog-details.php"><h5 class="link text-start"> Read More </h5></a>
-                </div>
-            </div>
+          
         </div>
 
     </div>
