@@ -12,8 +12,8 @@
             <div class="col-12">
                 <div class="courseBannerWrap">
                     <img src="assets/images/courses/courses-04.jpg" class="img-fluid w-100" alt="">
-                    <h1 class="color_white fw-bold font-size-48 mb-10">ACHIEVE YOUR DREAMS WITH THE CLC COACHING CENTRE IN KOZHIKODE</h1>
-                    <p>Achieve your dream with the CLC Coaching Centre at Kozhikode, where expert faculties, personalized coaching, and a result-oriented approach help a student excel in competitive exams as well as the language proficiency test. Enroll now at the CLC Coaching Centre in Kozhikode.</p>
+                    <h1 class="color_white fw-bold font-size-48 mb-10">YOUR IELTS JOURNEY BEGINS WITH US</h1>
+                    <p>Take the first step towards your dream score with our expert IELTS coaching. Whether you're aiming for higher education, immigration, or career opportunities abroad, our structured training, personalized strategies, and real exam practice will ensure your success. With experienced trainers and proven techniques, achieving your desired band score has never been easier. Join us today and start your IELTS journey with confidence.</p>
                 </div>
             </div>
         </div>
@@ -25,14 +25,15 @@
        <div class="row mt-60">
             <div class="col-lg-6">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Enroll now at the CLC Coaching Centre in Kozhikode</h4>
-                    <p class="mt-20">Enroll now at CLC Coaching Centre in Kozhikode and take a step closer to success! With experienced mentors, structured courses, and a student-focused approach, we help you excel in competitive exams, Spoken English, IELTS, OET, and PTE. Unlock your full potential with the best coaching and guidance. Join CLC today and shape your future. </p>
+                    <h4 class="color_white fw-bold">ONE STEP CLOSER TO YOUR DREAM DESTINATION!</h4>
+                    <p class="mt-20">At Creative Learning Centre, we believe that learning goes beyond the textbook. We have a way of doing things that make education interactive, innovative, interesting, and effective. Our expert trainers are here to guide you on any skill-building or new knowledge, be it in preparation for an exam, developing your skills, or something else. Let's get learning. </p>
                 </div>
             </div>
             <div class="col-lg-6 mt-lg-0 mt-4">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Transform your future with the right guidance</h4>
-                    <p class="mt-20">Transform your future with the right guidance at the CLC Coaching Centre in Kozhikode! Expert trainers, structured courses, and a personalized approach to make you excel in competitive exams like IELTS, OET, and PTE. Whether it is higher studies or career advancement, we help you with all the support and strategies needed to succeed. Join us today and take the first step toward a brighter future.</p>
+                    <h4 class="color_white fw-bold"> 
+GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
+                    <p class="mt-20">Turn your dream of studying or working abroad into reality with our expert IELTS coaching!  At CLC IELTS Coaching Center, we provide top-notch training, personalized guidance, and proven strategies to help you secure your desired band score. With interactive sessions, mock tests, and expert feedback, success is just a step away. Join us today and take the first step towards your global future.</p>
                 </div>
             </div>
         </div>

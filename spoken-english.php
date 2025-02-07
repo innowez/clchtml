@@ -12,8 +12,8 @@
             <div class="col-12">
                 <div class="courseBannerWrap">
                     <img src="assets/images/courses/courses-05.jpg" class="img-fluid w-100" alt="">
-                    <h1 class="color_white fw-bold font-size-48 mb-10">ACHIEVE YOUR DREAMS WITH THE CLC COACHING CENTRE IN KOZHIKODE</h1>
-                    <p>Achieve your dream with the CLC Coaching Centre at Kozhikode, where expert faculties, personalized coaching, and a result-oriented approach help a student excel in competitive exams as well as the language proficiency test. Enroll now at the CLC Coaching Centre in Kozhikode.</p>
+                    <h1 class="color_white fw-bold font-size-48 mb-10">JOIN OUR SPOKEN ENGLISH COACHING & SPEAK FLUENTLY</h1>
+                    <p>Enhance your communication skills and speak English with confidence. Our expert-led Spoken English coaching focuses on improving fluency, pronunciation, vocabulary, and grammar through interactive and practical sessions. Whether for career growth, travel, or daily conversations, we help you overcome hesitation and speak naturally. Enroll today and take the first step towards confident communication.</p>
                 </div>
             </div>
         </div>
@@ -25,28 +25,32 @@
        <div class="row mt-60">
             <div class="col-lg-6">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Enroll now at the CLC Coaching Centre in Kozhikode</h4>
-                    <p class="mt-20">Enroll now at CLC Coaching Centre in Kozhikode and take a step closer to success! With experienced mentors, structured courses, and a student-focused approach, we help you excel in competitive exams, Spoken English, IELTS, OET, and PTE. Unlock your full potential with the best coaching and guidance. Join CLC today and shape your future. </p>
+                    <h4 class="color_white fw-bold"> MASTER COMMUNICATION SKILLS & BOOST YOUR CAREER</h4>
+                    <p class="mt-20">Enhance your confidence and fluency with our Spoken English coaching. Whether for job interviews, workplace communication, or daily conversations, our expert training helps you speak English clearly, effectively, and naturally. With interactive sessions, real-world practice, and personalized guidance, you'll gain the skills needed to excel in your career and social life. Join us today and start speaking with confidence. </p>
                 </div>
             </div>
             <div class="col-lg-6 mt-lg-0 mt-4">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Transform your future with the right guidance</h4>
-                    <p class="mt-20">Transform your future with the right guidance at the CLC Coaching Centre in Kozhikode! Expert trainers, structured courses, and a personalized approach to make you excel in competitive exams like IELTS, OET, and PTE. Whether it is higher studies or career advancement, we help you with all the support and strategies needed to succeed. Join us today and take the first step toward a brighter future.</p>
+                    <h4 class="color_white fw-bold">SPEAK, LISTEN, AND COMMUNICATE LIKE A PRO</h4>
+                    <p class="mt-20">Upgrade your English communication skills with our Spoken English coaching. Gain confidence in speaking, improve your listening skills, and master everyday conversations with ease. Our interactive training sessions, real-life practice, and expert guidance will help you speak fluently, accurately, and professionally. Whether for career growth, social interactions, or travel, we’ve got you covered! Join us today and start communicating like a pro.</p>
                 </div>
             </div>
         </div>
         <div class="row justify-content-center mt-60">
             <div class="col-md-10 col-lg-7">
-                <h4 class="color_white fw-bold text-center">CLC IELTS COACHING CENTER IN KOZHIKODE: UNLOCKING YOUR PATH TO SUCCESS</h4>
+                <h4 class="color_white fw-bold text-center">SPEAK, LISTEN, AND COMMUNICATE LIKE A PRO – JOIN OUR SPOKEN ENGLISH COACHING</h4>
                 <div class="textWrapper mt-20">
                     <ul>
-                        <li><b>Expert Trainers:</b> Learn from the most qualified and experienced IELTS trainers.</li>
-                        <li><b>Personalized Coaching:</b> Strategically designed for your target band score.</li>
-                        <li><b>Flexible Batches:</b> Morning, evening, and weekend classes to suit your schedule.</li>
-                        <li><b>Proven Results:</b>High success rate with students achieving Band 7+ and beyond.</li>
-                        <li><b>Interactive Learning:</b>Engaging sessions, real-time feedback, and practical exercises.</li>
-                        <li><b>Affordable Fees:</b>Quality training at budget-friendly rates.</li>
+                        <li><b>Expert Trainers:</b> Learn from skilled professionals with years of experience.</li>
+                        <li><b>Fluency & Confidence:</b> SSpeak English naturally and confidently in any situation..</li>
+                        <li><b>Interactive Sessions:</b> Engage in real-life conversations, role-plays, and group discussions.</li>
+                        <li><b>Listening & Pronunciation Practice:</b> Improve comprehension and perfect your accent.</li>
+                        <li><b>Grammar & Vocabulary Enhancement:</b> Strengthen your language skills for effective communication.</li>
+                        <li><b>Flexible Timings:</b> Morning, evening, and weekend batches are available.</li>
+                        <li><b>Practical Learning:</b> Focus on workplace communication, interviews, and public speaking.</li>
+                        <li><b>Affordable Fees:</b> High-quality training at budget-friendly rates.</li>
+
+
 
                     </ul>
                 </div>

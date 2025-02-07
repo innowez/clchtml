@@ -12,8 +12,8 @@
             <div class="col-12">
             <div class="courseBannerWrap">
                     <img src="assets/images/courses/courses-03.jpg" class="img-fluid w-100" alt="">
-                    <h1 class="color_white fw-bold font-size-48 mb-10">ACHIEVE YOUR DREAMS WITH THE CLC COACHING CENTRE IN KOZHIKODE</h1>
-                    <p>Achieve your dream with the CLC Coaching Centre at Kozhikode, where expert faculties, personalized coaching, and a result-oriented approach help a student excel in competitive exams as well as the language proficiency test. Enroll now at the CLC Coaching Centre in Kozhikode.</p>
+                    <h1 class="color_white fw-bold font-size-48 mb-10">CRACK OET WITH EASE</h1>
+                    <p>Achieve your dream OET score with expert guidance and proven strategies. Our comprehensive training program focuses on all four modules Listening, Reading, Writing, and Speaking to help you excel with confidence. With personalized coaching, real exam practice, and expert feedback, you'll master the skills needed to succeed. Join us today and take the first step toward your global healthcare career.</p>
                 </div>
             </div>
         </div>
@@ -25,28 +25,36 @@
         <div class="row mt-60">
             <div class="col-lg-6">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Enroll now at the CLC Coaching Centre in Kozhikode</h4>
-                    <p class="mt-20">Enroll now at CLC Coaching Centre in Kozhikode and take a step closer to success! With experienced mentors, structured courses, and a student-focused approach, we help you excel in competitive exams, Spoken English, IELTS, OET, and PTE. Unlock your full potential with the best coaching and guidance. Join CLC today and shape your future. </p>
+                    <h4 class="color_white fw-bold"> GET TOP-NOTCH OET COACHING & ACHIEVE YOUR PROFESSIONAL GOALS</h4>
+                    <p class="mt-20">
+Take your healthcare career to the next level with expert OET coaching. Our structured training, personalized guidance, and real exam practice ensure you achieve the OET score you need to work abroad with confidence. With experienced trainers and proven strategies, success is within your reach. Join us today and make your global career dreams a reality.
+</p>
                 </div>
             </div>
             <div class="col-lg-6 mt-lg-0 mt-4">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Transform your future with the right guidance</h4>
-                    <p class="mt-20">Transform your future with the right guidance at the CLC Coaching Centre in Kozhikode! Expert trainers, structured courses, and a personalized approach to make you excel in competitive exams like IELTS, OET, and PTE. Whether it is higher studies or career advancement, we help you with all the support and strategies needed to succeed. Join us today and take the first step toward a brighter future.</p>
+                    <h4 class="color_white fw-bold"> JOIN OUR OET TRAINING & GET THE SCORES YOU NEED TO SUCCEED</h4>
+                    <p class="mt-20">Prepare for OET with expert guidance and proven strategies. Our comprehensive training program equips you with the skills and confidence to excel in all four modules—Listening, Reading, Writing, and Speaking. With personalized coaching, real exam practice, and expert feedback, achieving your desired OET score has never been easier. </p>
                 </div>
             </div>
         </div>
         <div class="row justify-content-center mt-60">
             <div class="col-md-10 col-lg-7">
-                <h4 class="color_white fw-bold text-center">CLC IELTS COACHING CENTER IN KOZHIKODE: UNLOCKING YOUR PATH TO SUCCESS</h4>
+                <h4 class="color_white fw-bold text-center">
+OET COACHING – YOUR PATHWAY TO A GLOBAL HEALTHCARE CAREER
+</h4>
                 <div class="textWrapper mt-20">
                     <ul>
-                        <li><b>Expert Trainers:</b> Learn from the most qualified and experienced IELTS trainers.</li>
-                        <li><b>Personalized Coaching:</b> Strategically designed for your target band score.</li>
-                        <li><b>Flexible Batches:</b> Morning, evening, and weekend classes to suit your schedule.</li>
-                        <li><b>Proven Results:</b>High success rate with students achieving Band 7+ and beyond.</li>
-                        <li><b>Interactive Learning:</b>Engaging sessions, real-time feedback, and practical exercises.</li>
-                        <li><b>Affordable Fees:</b>Quality training at budget-friendly rates.</li>
+                        <li><b>Expert Faculty : </b> Learn from experienced trainers specialized in OET coaching.</li>
+                        <li><b>Comprehensive Training : </b> Cover all four modules – Listening, Reading, Writing, and Speaking with targeted strategies</li>
+                        <li><b>Personalized Coaching : </b> Tailored guidance to address your strengths and weaknesses.</li>
+                        <li><b>Real Exam Practice : </b> Mock tests, sample questions, and exam simulations for better preparation.</li>
+                        <li><b>Advanced Writing Techniques : </b>Learn the best strategies to structure your letters effectively.</li>
+                        <li><b>Flexible Batches : </b>Morning, evening, and weekend sessions to suit your schedule.</li>
+                        <li><b>Proven Success Rate : </b>MHundreds of healthcare professionals have achieved their dream scores.</li>
+                        <li><b>Affordable Fees : </b>Get high-quality coaching at budget-friendly rates.</li>
+                        <li><b>Career Guidance : </b>Assistance with job applications and overseas opportunities.</li>
+
 
                     </ul>
                 </div>
@@ -377,6 +385,32 @@
                                 <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <p>We don't offer one-on-one coaching or tutoring, but we can assist with personalized tips, practice exercises, and guidance for your IELTS preparation.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <div class="accordion-header" id="headingOneRight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
+                                        <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
+                                        <h6>Do you offer trial or demo classes?</h6>
+                                    </button>
+                                </div>
+                                <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Yes, we offer free demo classes. Contact us to schedule your session.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <div class="accordion-header" id="headingOneRight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
+                                        <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
+                                        <h6>What are the course fees?</h6>
+                                    </button>
+                                </div>
+                                <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>The fees depend on the course you choose. Please contact our admissions team for a detailed fee structure.</p>
                                     </div>
                                 </div>
                             </div>

@@ -11,8 +11,8 @@
             <div class="col-12">
                 <div class="courseBannerWrap">
                     <img src="assets/images/courses/courses-01-big.png" class="img-fluid w-100" alt="">
-                    <h1 class="color_white fw-bold font-size-48 mb-10">ACHIEVE YOUR DREAMS WITH THE CLC COACHING CENTRE IN KOZHIKODE</h1>
-                    <p>Achieve your dream with the CLC Coaching Centre at Kozhikode, where expert faculties, personalized coaching, and a result-oriented approach help a student excel in competitive exams as well as the language proficiency test. Enroll now at the CLC Coaching Centre in Kozhikode.</p>
+                    <h1 class="color_white fw-bold font-size-48 mb-10">EXPAND YOUR CAREER & STUDY OPPORTUNITIES IN GERMANY</h1>
+                    <p>Mastering the German language opens doors to exciting career and education opportunities in Germany and beyond! Whether you’re planning to study, work, or migrate, our expert-led training helps you easily achieve fluency. Join our German language training today and take the first step toward your global future.</p>
                   </div>
             </div>
         </div>
@@ -24,28 +24,31 @@
        <div class="row mt-60">
             <div class="col-lg-6">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Enroll now at the CLC Coaching Centre in Kozhikode</h4>
-                    <p class="mt-20">Enroll now at CLC Coaching Centre in Kozhikode and take a step closer to success! With experienced mentors, structured courses, and a student-focused approach, we help you excel in competitive exams, Spoken English, IELTS, OET, and PTE. Unlock your full potential with the best coaching and guidance. Join CLC today and shape your future. </p>
+                    <h4 class="color_white fw-bold"> LEARN GERMAN & MAKE YOUR TRANSITION SMOOTHER</h4>
+                    <p class="mt-20">Planning to study, work, or live in Germany. Learning German will help you communicate confidently, adapt easily, and integrate seamlessly into your new environment. Our courses, expert trainers, and real-life conversation practice ensure you gain fluency with ease. Join our German language training today and step into a brighter future with confidence. </p>
                 </div>
             </div>
             <div class="col-lg-6 mt-lg-0 mt-4">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Transform your future with the right guidance</h4>
-                    <p class="mt-20">Transform your future with the right guidance at the CLC Coaching Centre in Kozhikode! Expert trainers, structured courses, and a personalized approach to make you excel in competitive exams like IELTS, OET, and PTE. Whether it is higher studies or career advancement, we help you with all the support and strategies needed to succeed. Join us today and take the first step toward a brighter future.</p>
+                    <h4 class="color_white fw-bold"> LEARN GERMAN & UNLOCK GLOBAL OPPORTUNITIES</h4>
+                    <p class="mt-20">Fluency in German can open doors to top universities, global careers, and exciting travel experiences. Whether you're preparing for study, work, or migration, Join our German language training today and take the first step toward a world of new possibilities.</p>
                 </div>
             </div>
         </div>
         <div class="row justify-content-center mt-60">
             <div class="col-md-10 col-lg-7">
-                <h4 class="color_white fw-bold text-center">CLC IELTS COACHING CENTER IN KOZHIKODE: UNLOCKING YOUR PATH TO SUCCESS</h4>
+                <h4 class="color_white fw-bold text-center">GERMAN LANGUAGE TRAINING – YOUR GATEWAY TO GLOBAL SUCCESSS</h4>
                 <div class="textWrapper mt-20">
                     <ul>
-                        <li><b>Expert Trainers:</b> Learn from the most qualified and experienced IELTS trainers.</li>
-                        <li><b>Personalized Coaching:</b> Strategically designed for your target band score.</li>
-                        <li><b>Flexible Batches:</b> Morning, evening, and weekend classes to suit your schedule.</li>
-                        <li><b>Proven Results:</b>High success rate with students achieving Band 7+ and beyond.</li>
-                        <li><b>Interactive Learning:</b>Engaging sessions, real-time feedback, and practical exercises.</li>
-                        <li><b>Affordable Fees:</b>Quality training at budget-friendly rates.</li>
+                        <li><b>Expert Instructors :</b> Learn from certified trainers with years of experience.</li>
+                        <li><b>Interactive Learning:</b> Strategically designed for your target band score.</li>
+                        <li><b>Flexible Timings:</b> Morning, evening, and weekend classes to suit your schedule.</li>
+                        <li><b>Career & Study Abroad Opportunities:</b> Open doors to jobs and universities in Germany.</li>
+                        <li><b>Affordable Fees:</b> High-quality training at competitive prices.</li>
+                        <li><b>Personalized Coaching:</b> One-on-one guidance to improve speaking, writing, and comprehension skills.</li>
+                        <li><b>Immersive Learning Environment:</b> Role-plays, group discussions, and cultural insights.</li>
+                        <li><b>Fast-Track Your Progress:</b> Intensive courses for quicker learning and proficiency.</li>
+
 
                     </ul>
                 </div>

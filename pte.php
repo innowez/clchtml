@@ -12,8 +12,8 @@
             <div class="col-12">
                 <div class="courseBannerWrap">
                     <img src="assets/images/courses/3.jpg" class="img-fluid w-100" alt="">
-                    <h1 class="color_white fw-bold font-size-48 mb-10">ACHIEVE YOUR DREAMS WITH THE CLC COACHING CENTRE IN KOZHIKODE</h1>
-                    <p>Achieve your dream with the CLC Coaching Centre at Kozhikode, where expert faculties, personalized coaching, and a result-oriented approach help a student excel in competitive exams as well as the language proficiency test. Enroll now at the CLC Coaching Centre in Kozhikode.</p>
+                    <h1 class="color_white fw-bold font-size-48 mb-10">SCORE HIGH IN PTE WITH THE RIGHT STRATEGY</h1>
+                    <p>Unlock your potential and achieve your desired PTE score with expert coaching.Our structured training focuses on smart strategies, real exam practice, and personalized feedback to help you excel in all modules—Speaking, Writing, Reading, and Listening. With proven techniques and expert guidance, success is within your reach. Join us today and take a step closer to your global dreams.</p>
                </div>
             </div>
         </div>
@@ -25,28 +25,33 @@
        <div class="row mt-60">
             <div class="col-lg-6">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Enroll now at the CLC Coaching Centre in Kozhikode</h4>
-                    <p class="mt-20">Enroll now at CLC Coaching Centre in Kozhikode and take a step closer to success! With experienced mentors, structured courses, and a student-focused approach, we help you excel in competitive exams, Spoken English, IELTS, OET, and PTE. Unlock your full potential with the best coaching and guidance. Join CLC today and shape your future. </p>
+                    <h4 class="color_white fw-bold">YOUR DREAM SCORE IN PTE IS JUST A STEP AWAY</h4>
+                    <p class="mt-20">Achieve your desired PTE score with expert coaching, personalized training, and real exam practice! Our structured approach covers all four modules—Listening, Reading, Writing, and Speaking—ensuring you gain the skills and confidence needed to excel. With mock tests, strategic guidance, and one-on-one feedback, success is within your reach. Join our PTE coaching today and take the first step towards your global dreams. </p>
                 </div>
             </div>
             <div class="col-lg-6 mt-lg-0 mt-4">
                 <div class="coursesBox">
-                    <h4 class="color_white fw-bold"> Transform your future with the right guidance</h4>
-                    <p class="mt-20">Transform your future with the right guidance at the CLC Coaching Centre in Kozhikode! Expert trainers, structured courses, and a personalized approach to make you excel in competitive exams like IELTS, OET, and PTE. Whether it is higher studies or career advancement, we help you with all the support and strategies needed to succeed. Join us today and take the first step toward a brighter future.</p>
+                    <h4 class="color_white fw-bold"> 
+JOIN OUR EXPERT-LED COACHING AND ACHIEVE YOUR GOALS
+</h4>
+                    <p class="mt-20">Unlock your potential with top-notch PTE training designed for success. Our expert-led coaching provides personalized strategies, real exam practice, and in-depth guidance to help you master all four modules—Listening, Reading, Writing, and Speaking. With mock tests, performance analysis, and one-on-one support, we ensure you achieve your target score with confidence. Enroll today and take a step closer to your global aspirations.</p>
                 </div>
             </div>
         </div>
         <div class="row justify-content-center mt-60">
             <div class="col-md-10 col-lg-7">
-                <h4 class="color_white fw-bold text-center">CLC IELTS COACHING CENTER IN KOZHIKODE: UNLOCKING YOUR PATH TO SUCCESS</h4>
+                <h4 class="color_white fw-bold text-center">PTE COACHING – YOUR KEY TO SUCCESS</h4>
                 <div class="textWrapper mt-20">
                     <ul>
-                        <li><b>Expert Trainers:</b> Learn from the most qualified and experienced IELTS trainers.</li>
-                        <li><b>Personalized Coaching:</b> Strategically designed for your target band score.</li>
-                        <li><b>Flexible Batches:</b> Morning, evening, and weekend classes to suit your schedule.</li>
-                        <li><b>Proven Results:</b>High success rate with students achieving Band 7+ and beyond.</li>
-                        <li><b>Interactive Learning:</b>Engaging sessions, real-time feedback, and practical exercises.</li>
-                        <li><b>Affordable Fees:</b>Quality training at budget-friendly rates.</li>
+                        <li><b>Expert Trainers :</b> Learn from experienced PTE professionals for guaranteed results.</li>
+                        <li><b>Comprehensive Course :</b> Master all four modules – Listening, Reading, Writing, and Speaking with targeted strategies.</li>
+                        <li><b>Real Exam Practice :</b> Mock tests, sample questions, and exam simulations to boost confidence.</li>
+                        <li><b>Personalized Coaching :</b> Tailored guidance to improve your weak areas and maximize your score.</li>
+                        <li><b>One-on-One Speaking Sessions :</b> Enhance fluency and pronunciation with expert feedback.</li>
+                        <li><b>Advanced Writing Techniques :</b> Learn effective structures and strategies to excel in the writing section.</li>
+                        <li><b>Flexible Timings :</b> Morning, evening, and weekend batches to fit your schedule.</li>
+                        <li><b>Affordable Fees :</b> Quality training at budget-friendly prices.</li>
+
 
                     </ul>
                 </div>
