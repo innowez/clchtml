@@ -312,6 +312,8 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
     </div>
 </section>
 
+
+
 <section class="faqSection pt-90 pb-90">
     <img src="assets/images/background/gradient-01.svg" class="img-fluid gradientShape" alt="">
     <div class="container position-relative">
@@ -381,32 +383,32 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                                     </div>
                                 </div>
                             </div>
-                            <!-- <div class="accordion-item">
-                                <div class="accordion-header" id="headingTwoRight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoRight" aria-expanded="false" aria-controls="collapseTwo">
+                            <div class="accordion-item">
+                                <div class="accordion-header" id="headingOneRight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you provide any study materials for IELTS ?</h6>
+                                        <h6>Do you offer trial or demo classes?</h6>
                                     </button>
                                 </div>
-                                <div id="collapseTwoRight" class="accordion-collapse collapse" aria-labelledby="headingTwoRight" data-bs-parent="#accordionExample">
+                                <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>Yes, we offer free demo classes. Contact us to schedule your session.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
-                                <div class="accordion-header" id="headingThreeRight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreeRight" aria-expanded="false" aria-controls="collapseThree">
+                                <div class="accordion-header" id="headingOneRight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you offer one-on-one coaching or tutoring ?</h6>
+                                        <h6>What are the course fees?</h6>
                                     </button>
                                 </div>
-                                <div id="collapseThreeRight" class="accordion-collapse collapse" aria-labelledby="headingThreeRight" data-bs-parent="#accordionExample">
+                                <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur commodi corporis earum eius est minus nesciunt repellat, soluta. Exercitationem, non.</p>
+                                        <p>The fees depend on the course you choose. Please contact our admissions team for a detailed fee structure.</p>
                                     </div>
                                 </div>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                 </div>

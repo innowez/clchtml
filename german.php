@@ -383,6 +383,32 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="accordion-item">
+                                <div class="accordion-header" id="headingOneRight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
+                                        <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
+                                        <h6>Do you offer trial or demo classes?</h6>
+                                    </button>
+                                </div>
+                                <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Yes, we offer free demo classes. Contact us to schedule your session.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <div class="accordion-header" id="headingOneRight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
+                                        <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
+                                        <h6>What are the course fees?</h6>
+                                    </button>
+                                </div>
+                                <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>The fees depend on the course you choose. Please contact our admissions team for a detailed fee structure.</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
