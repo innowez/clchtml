@@ -370,16 +370,16 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                             </div>
                         </div>
                         <div class="col-lg-6 accordionCol mt-20">
-                            <div class="accordion-item">
+                        <div class="accordion-item">
                                 <div class="accordion-header" id="headingOneRight">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you offer one-on-one coaching or tutoring ?</h6>
+                                        <h6>Do you offer career guidance and counseling                                        ?</h6>
                                     </button>
                                 </div>
                                 <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>We don't offer one-on-one coaching or tutoring, but we can assist with personalized tips, practice exercises, and guidance for your IELTS preparation.</p>
+                                        <p>Yes, we provide career counseling sessions to help students choose the right path.</p>
                                     </div>
                                 </div>
                             </div>

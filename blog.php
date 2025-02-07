@@ -49,7 +49,17 @@
                         <img src="assets/images/blog/blog-02.png" class="img-fluid w-100" alt="">
                     </div>
                     <h5 class="fw-SemiBold mt-20 color_white">HOW TO PLAN EFFECTIVELY FOR IELTS STUDYING</h5>
-                    <a class="mt-auto" href="blog-details-1.php"><h5 class="link text-start"> Read More </h5></a>
+                    <a class="mt-auto" href="how-to-plan-effectively.php"><h5 class="link text-start"> Read More </h5></a>
+                </div>
+                
+            </div>
+            <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
+                <div class="coursesCard blogCard">
+                    <div class="imgBpx">
+                        <img src="assets/images/blog/blog-02.png" class="img-fluid w-100" alt="">
+                    </div>
+                    <h5 class="fw-SemiBold mt-20 color_white">THE MINDSET YOU NEED TO PASS OET ON YOUR FIRST ATTEMPT</h5>
+                    <a class="mt-auto" href="the-mindset-you-need.php"><h5 class="link text-start"> Read More </h5></a>
                 </div>
                 
             </div>
