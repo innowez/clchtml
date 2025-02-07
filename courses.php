@@ -131,7 +131,7 @@
                         <div class="spaceBox">
                             <h3 class="color_white fw-bold">Limited Seats Book Your Now.</h3>
                             <p class="mt-20">Admissions are now open for the month of October and November </p>
-                            <a href="" class="primary_btn mt-40"> WhatApp Now </a>
+                            <a href="" class="primary_btn mt-40"> whatsapp Now </a>
                         </div>
                     </div>
                     <div class="col-lg-6 position-relative d-flex justify-content-center">
