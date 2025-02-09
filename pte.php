@@ -141,150 +141,27 @@ JOIN OUR EXPERT-LED COACHING AND ACHIEVE YOUR GOALS
     </div>
     <div class="container containerFull position-relative mt-50">
     <div class="testimonialSlider" data-aos="fade-up" data-aos-duration="1000">
+        <?php foreach ($reviews as $review): ?>
+        
             <div class="item">
                 <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>CLC transformed my approach to studying. The personalized coaching and mock tests boosted my confidence and led to my success in the OET!"</p>
-                    <div class="profileInfo">
+                    <p><?php echo htmlspecialchars($review['text']); ?></p>
+                     <div class="profileInfo">
                         <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                            <img src="<?php echo $review['profile_photo_url'] ?? 'assets/images/testimonial/default.png'; ?>" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Anil R</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                            <div class="my-rating-readonly" data-rating="5"></div>
+                            <h5><?php echo htmlspecialchars($review['author_name']); ?></h5>
+                            <p><?php echo isset($review['relative_time_description']) ? htmlspecialchars($review['relative_time_description']) : ''; ?> </p>
+                            <div class="my-rating-readonly" data-rating="<?php echo $review['rating']; ?>"></div>
+                            <div class="my-rating-readonly" data-rating="<?php echo $review['rating']; ?>"></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>I never thought I could achieve my desired IELTS score, but CLC Coaching Centre made it possible! The trainers were incredibly supportive and helped me every step of the way</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Priya M</h5>
-                            <p>Calicut</p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>The faculty at CLC is outstanding! They are not only knowledgeable but also genuinely care about their students’ progress. I highly recommend CLC!"</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Sneha K.</h5>
-                            <p></p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>The interactive sessions at CLC made learning enjoyable. I looked forward to every class and gained so much from the experience!"</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Rahul S</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>I struggled with certain concepts until I joined CLC. The personalized attention helped me grasp everything I needed to succeed!</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Meera T.</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div><div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>The mock tests were a game-changer for me. They helped me identify my weaknesses and turn them into strengths before my exams!</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Vikram J.</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div><div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Choosing CLC was one of the best decisions I’ve made for my academic journey. The coaching here is truly top-notch!</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Aisha L</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>I can’t thank the team at CLC enough for their support! Their commitment to student success is evident in everything they do.</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Arjun P.</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>CLC Coaching Centre is where dreams become reality! I owe my success to their dedicated team of trainers. Highly recommend!</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5> Shreya M.</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+            
+        <?php endforeach; ?>
     </div>
     <div class="container position-relative">
         <div class="row pt-90 justify-content-center">
@@ -304,7 +181,7 @@ JOIN OUR EXPERT-LED COACHING AND ACHIEVE YOUR GOALS
                         <div class="spaceBox">
                             <h3 class="color_white fw-bold">Limited Seats Book Your Now.</h3>
                             <p class="mt-20">Admissions are now open for the month of October and November </p>
-                            <a href="" class="primary_btn mt-40"> whatsapp Now </a>
+                            <a href="https://wa.me/919605833311" class="primary_btn mt-40"> whatsapp Now </a>
                         </div>
                     </div>
                     <div class="col-lg-6 position-relative d-flex justify-content-center">
@@ -333,83 +210,82 @@ JOIN OUR EXPERT-LED COACHING AND ACHIEVE YOUR GOALS
                     <div class="row mt-30">
                         <div class="col-lg-6 accordionCol mt-20">
                             <div class="accordion-item">
-                                <div class="accordion-header" id="headingOne">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                <div class="accordion-header" id="pteOne">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePteOne" aria-expanded="true" aria-controls="collapsePteOne">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Can I attend IELTS preparation classes online ?</h6>
+                                        <h6>What is the PTE exam?</h6>
                                     </button>
                                 </div>
-                                <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                <div id="collapsePteOne" class="accordion-collapse collapse" aria-labelledby="pteOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Yes, you can attend IELTS preparation classes online. Many platforms offer flexible online courses with live sessions, practice tests, and study materials.</p>
+                                        <p>The PTE (Pearson Test of English) is a computer-based English language proficiency test used for study, work, and migration purposes.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
-                                <div class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <div class="accordion-header" id="pteTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePteTwo" aria-expanded="false" aria-controls="collapsePteTwo">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you provide any study materials for IELTS ?
-                                        </h6>
+                                        <h6>How is the PTE exam structured?</h6>
                                     </button>
                                 </div>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                <div id="collapsePteTwo" class="accordion-collapse collapse" aria-labelledby="pteTwo" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>I don't provide study materials directly, but I can recommend resources and guide you on what to focus on for the IELTS exam. Let me know what you need help with!</p>
+                                        <p>The PTE exam consists of three sections: Speaking & Writing, Reading, and Listening. It is entirely computer-based and graded by AI.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
-                                <div class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <div class="accordion-header" id="pteThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePteThree" aria-expanded="false" aria-controls="collapsePteThree">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you offer one-on-one coaching or tutoring ?</h6>
+                                        <h6>How long is the PTE exam?</h6>
                                     </button>
                                 </div>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                <div id="collapsePteThree" class="accordion-collapse collapse" aria-labelledby="pteThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>We don't offer one-on-one coaching or tutoring, but we can assist with personalized tips, practice exercises, and guidance for your IELTS preparation.</p>
+                                        <p>The PTE exam lasts approximately 2 hours, covering all three sections in a single session.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6 accordionCol mt-20">
-                        <div class="accordion-item">
-                                <div class="accordion-header" id="headingOneRight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
+                            <div class="accordion-item">
+                                <div class="accordion-header" id="pteFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePteFour" aria-expanded="true" aria-controls="collapsePteFour">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you offer career guidance and counseling                                        ?</h6>
+                                        <h6>How soon do I get my PTE results?</h6>
                                     </button>
                                 </div>
-                                <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
+                                <div id="collapsePteFour" class="accordion-collapse collapse" aria-labelledby="pteFour" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Yes, we provide career counseling sessions to help students choose the right path.</p>
+                                        <p>PTE results are usually available within 24 to 48 hours after the test.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
-                                <div class="accordion-header" id="headingOneRight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
+                                <div class="accordion-header" id="pteFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePteFive" aria-expanded="true" aria-controls="collapsePteFive">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Do you offer trial or demo classes?</h6>
+                                        <h6>Is PTE accepted for immigration and universities?</h6>
                                     </button>
                                 </div>
-                                <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
+                                <div id="collapsePteFive" class="accordion-collapse collapse" aria-labelledby="pteFive" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Yes, we offer free demo classes. Contact us to schedule your session.</p>
+                                        <p>Yes, PTE is widely accepted for study visas, work permits, and immigration in countries like Australia, Canada, the UK, and the USA.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
-                                <div class="accordion-header" id="headingOneRight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRight" aria-expanded="true" aria-controls="collapseOneRight">
+                                <div class="accordion-header" id="pteSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePteSix" aria-expanded="true" aria-controls="collapsePteSix">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>What are the course fees?</h6>
+                                        <h6>How can I prepare for the PTE exam?</h6>
                                     </button>
                                 </div>
-                                <div id="collapseOneRight" class="accordion-collapse collapse " aria-labelledby="headingOneRight" data-bs-parent="#accordionExample">
+                                <div id="collapsePteSix" class="accordion-collapse collapse" aria-labelledby="pteSix" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>The fees depend on the course you choose. Please contact our admissions team for a detailed fee structure.</p>
+                                        <p>You can prepare using PTE official practice tests, online courses, mobile apps, and study guides that focus on AI-based scoring techniques.</p>
                                     </div>
                                 </div>
                             </div>
@@ -417,6 +293,7 @@ JOIN OUR EXPERT-LED COACHING AND ACHIEVE YOUR GOALS
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 </section>

@@ -2,7 +2,6 @@
 <?php include('assets/includes/link.php') ?>
 <?php include('assets/includes/header.php') ?>
 
-
 <section class="homeBanner innerBanner">
     <div class="container position-relative">
         <div class="row">
@@ -35,135 +34,29 @@
     </div>
     <div class="container position-relative mt-10">
         <div class="row">
+ 
+         
+        <?php foreach ($reviews as $review): ?>
+        
             <div class="col-md-6 col-xl-4 mt-40">
-            <div class="testimonialCard">
+                <div class="testimonialCard">
                     <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>CLC transformed my approach to studying. The personalized coaching and mock tests boosted my confidence and led to my success in the OET!"</p>
+                    <p><?php echo htmlspecialchars($review['text']); ?></p>
                     <div class="profileInfo">
                         <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
+                                <img src="<?php echo $review['profile_photo_url'] ?? 'assets/images/testimonial/default.png'; ?>" class="img-fluid w-100" alt="">
                         </div>
                         <div class="details">
-                            <h5>Anil R</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                            <div class="my-rating-readonly" data-rating="5"></div>
+                        <h5><?php echo htmlspecialchars($review['author_name']); ?></h5>
+                                <p><?php echo isset($review['relative_time_description']) ? htmlspecialchars($review['relative_time_description']) : ''; ?></p>
+                                <div class="my-rating-readonly" data-rating="<?php echo $review['rating']; ?>"></div>
+
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xl-4 mt-40">
-            <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>I never thought I could achieve my desired IELTS score, but CLC Coaching Centre made it possible! The trainers were incredibly supportive and helped me every step of the way</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Priya M</h5>
-                            <p>Calicut</p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4 mt-40">
-            <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>The faculty at CLC is outstanding! They are not only knowledgeable but also genuinely care about their students’ progress. I highly recommend CLC!"</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Sneha K.</h5>
-                            <p></p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4 mt-40">
-            <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>The interactive sessions at CLC made learning enjoyable. I looked forward to every class and gained so much from the experience!"</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Rahul S</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4 mt-40">
-            <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>I struggled with certain concepts until I joined CLC. The personalized attention helped me grasp everything I needed to succeed!</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Meera T.</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4 mt-40">
-            <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>The mock tests were a game-changer for me. They helped me identify my weaknesses and turn them into strengths before my exams!</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Vikram J.</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4 mt-40">
-            <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Choosing CLC was one of the best decisions I’ve made for my academic journey. The coaching here is truly top-notch!</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Aisha L</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-4 mt-40">
-            <div class="testimonialCard">
-                    <img src="assets/images/testimonialIcon.svg" class="img-fluid icon" alt="">
-                    <p>Choosing CLC was one of the best decisions I’ve made for my academic journey. The coaching here is truly top-notch!</p>
-                    <div class="profileInfo">
-                        <div class="photo">
-                            <img src="assets/images/testimonial/testimonial-01.png" class="img-fluid w-100" alt="">
-                        </div>
-                        <div class="details">
-                            <h5>Aisha L</h5>
-                            <p> </p>
-                            <div class="my-rating-readonly" data-rating="5"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php endforeach; ?>
+           
         </div>
     </div>
 </section>

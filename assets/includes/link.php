@@ -37,3 +37,13 @@
 
 </head>
 <body id="home">
+<?php
+$place_id = "ChIJ70lyEEZZpjsRrOCvQj4O1RE";
+$api_key = 'AIzaSyDku-8QHu2RnkNGsAjpqnRA-z6fEfqTFDE';
+$url = "https://maps.googleapis.com/maps/api/place/details/json?place_id=$place_id&fields=name,rating,reviews&key=$api_key";
+
+$response = file_get_contents($url);
+$data = json_decode($response, true);
+
+$reviews = $data['result']['reviews'] ?? [];
+?>
