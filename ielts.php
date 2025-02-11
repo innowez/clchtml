@@ -66,7 +66,7 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                     <div class="row mt-10 justify-content-center">
                         <div class="col-md-6 col-lg-4 mt-20">
                             <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15"> Beginner  </h5>
+                                <h5 class="mb-15 text-center"> Beginner  </h5>
                                 <p class="mb-10"><b>CourseDuration:</b> 8 Weeks</p>
                                 <p class="mb-10"><b>Mock Tests:</b>  weekly</p>
                                 <ul >
@@ -81,8 +81,8 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                         </div>
                         <div class="col-md-6 col-lg-4 mt-20">
                         <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15"> Beginner  </h5>
-                                <p class="mb-10"><b>CourseDuration:</b> 12 Weeks</p>
+                                <h5 class="mb-15 text-center"> Advanced   </h5>
+                                <p class="mb-10 "><b>CourseDuration:</b> 12 Weeks</p>
                                 <p class="mb-10"><b>Mock Tests:</b>  Weekly</p>
                                 <ul>
                                     <li>Advanced writing techniques
@@ -100,7 +100,7 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                         </div>
                         <div class="col-md-6 col-lg-4 mt-20">
                         <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15"> Crash  </h5>
+                                <h5 class="mb-15 text-center"> Crash  </h5>
                                 <p class="mb-10"><b>CourseDuration:</b>4 Weeks</p>
                                 <p class="mb-10"><b>Mock Tests:</b>  Everyday
                                 </p>
@@ -209,12 +209,12 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                                 <div class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Can I retake a specific section of the IELTS exam?</h6>
+                                        <h6>What is IELTS, and why do I need it?</h6>
                                     </button>
                                 </div>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Yes! With the IELTS One Skill Retake, you can retake any one section (Listening, Reading, Writing, or Speaking) instead of the entire test. However, this option is available only at selected test centers.</p>
+                                        <p>IELTS (International English Language Testing System) is a globally recognized exam for study, work, and migration. Many universities and immigration authorities require IELTS scores as proof of English proficiency.</p>
                                     </div>
                                 </div>
                             </div>
@@ -222,12 +222,21 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                                 <div class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>How long does it take to receive IELTS results?</h6>
+                                        <h6>What are the different types of IELTS tests?</h6>
                                     </button>
                                 </div>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Computer-based IELTS results are available in 3 to 5 days, while paper-based results take 13 days. You will receive your Test Report Form (TRF) via email or courier.</p>
+                                        <p>There are two types:
+                                            <ul>
+                                                <li>
+                                                    IELTS General Training – For migration, work, or non-academic purposes.
+                                                </li>
+                                                <li>
+                                                    IELTS Academic – For students applying to universities or professional institutions. Nurses and Doctors are also required Academic
+                                                </li>
+                                            </ul>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -235,12 +244,27 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                                 <div class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>What should I bring on the IELTS test day?</h6>
+                                        <h6>How is the IELTS test layout/structures?</h6>
                                     </button>
                                 </div>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>You must bring your passport or national ID, pencils, pens, an eraser (for paper-based tests), and optionally water in a transparent bottle. Electronic devices and notes are not allowed.</p>
+                                        <p> The test consists of four sections:
+                                            <ul>
+                                                <li>
+                                                    Listening (30 minutes)
+                                                </li>
+                                                <li>
+                                                    Reading (60 minutes)
+                                                </li>
+                                                <li>
+                                                    Writing (60 minutes)
+                                                </li>
+                                                <li>
+                                                    Speaking (11–14 minutes)
+                                                </li>
+                                            </ul>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -250,12 +274,28 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                                 <div class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>Is there a passing or failing score in IELTS?</h6>
+                                        <h6>What is the minimum IELTS score required for universities and immigration?</h6>
                                     </button>
                                 </div>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>No, IELTS does not have a pass or fail. Scores are based on a 0-9 band system, and different institutions or immigration authorities have their own minimum score requirements.</p>
+                                        <p> Each institution and country has different requirements. Generally:
+                                            <ul>
+                                                <li>
+                                                    Universities: 6.0–7.5 band score
+                                                </li>
+                                                <li>
+                                                    Canada PR: 6.0+ in each section
+                                                </li>
+                                                <li>
+                                                    UK Work Visa: 4.0–7.0 depending on the job category
+                                                </li>
+                                                <li>
+                                                    IELTS Preparation at Creative Learning Centre
+                                                </li>
+                                            </ul>
+
+                                            </p>
                                     </div>
                                 </div>
                             </div>
@@ -263,12 +303,28 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                                 <div class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>How many times can I take the IELTS test?</h6>
+                                        <h6>How can Creative Learning Centre help me prepare for IELTS?</h6>
                                     </button>
                                 </div>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>You can take the IELTS test as many times as you want, but you must pay the test fee for each attempt. There is no limit on the number of retakes.</p>
+                                        <p> We provide:
+                                            <ul>
+                                                <li>
+                                                    Expert coaching from certified trainers
+                                                </li>
+                                                <li>
+                                                    Personalized study plans
+                                                </li>
+                                                <li>
+                                                    Mock tests & real-time feedback
+                                                </li>
+                                                <li>
+                                                    Flexible schedules – online & offline classes
+                                                </li>
+                                            </ul>
+                                               
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -276,12 +332,26 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
                                 <div class="accordion-header" id="headingSix">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
                                         <img src="assets/images/faqIcon.svg" class="img-fluid icon" alt="">
-                                        <h6>What happens if I’m late for my IELTS test?</h6>
+                                        <h6>How long does it take to prepare for IELTS?</h6>
                                     </button>
                                 </div>
                                 <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>If you arrive late, you may not be allowed to take the test. If you miss the test due to an unavoidable reason, contact your test center immediately to discuss options.</p>
+                                            <p>It depends on your current level:
+                                                <ul>
+                                                    <li>
+                                                        Beginners: 2-3 months
+                                                    </li>
+                                                    <li>
+                                                        Intermediate: 1-2 months
+                                                    </li>
+                                                    <li>
+                                                        Advanced: 3-4 weeks
+
+                                                    </li>
+                                                </ul>
+                                                
+                                            </p>
                                     </div>
                                 </div>
                             </div>

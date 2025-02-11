@@ -10,7 +10,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="courseBannerWrap">
-                    <img src="assets/images/courses/courses-01-big.png" class="img-fluid w-100" alt="">
+                    <img src="assets/images/courses/courses-01-big.jpg" class="img-fluid w-100" alt="">
                     <h1 class="color_white fw-bold font-size-48 mb-10">EXPAND YOUR CAREER & STUDY OPPORTUNITIES IN GERMANY</h1>
                     <p>Mastering the German language opens doors to exciting career and education opportunities in Germany and beyond! Whether you’re planning to study, work, or migrate, our expert-led training helps you easily achieve fluency. Join our German language training today and take the first step toward your global future.</p>
                   </div>
@@ -62,12 +62,12 @@
         <div class="row mt-60">
             <div class="col-12">
             <div class="coachingWrap">
-                    <h4 class="color_white fw-bold text-center">Tailored IELTS Coaching Formats for Your Needs</h4>
-                    <p class="text-center mt-15">Feeling anxious about the IELTS test? CLC simplifies the four different IELTS modules to accommodate various learning styles. Take IELTS easily with the best IELTS Coaching centre in Kozhikode, Kerala.</p>
+                    <h4 class="color_white fw-bold text-center">Tailored German Coaching Formats for Your Needs</h4>
+                    <!-- <p class="text-center mt-15">Feeling anxious about the IELTS test? CLC simplifies the four different IELTS modules to accommodate various learning styles. Take IELTS easily with the best IELTS Coaching centre in Kozhikode, Kerala.</p> -->
                     <div class="row mt-10 justify-content-center">
                         <div class="col-md-6 col-lg-4 mt-20">
                             <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15"> Beginner  </h5>
+                                <h5 class="mb-15 text-center"> Beginner  </h5>
                                 <p class="mb-10"><b>CourseDuration:</b> 8 Weeks</p>
                                 <p class="mb-10"><b>Mock Tests:</b>  weekly</p>
                                 <ul >
@@ -82,7 +82,7 @@
                         </div>
                         <div class="col-md-6 col-lg-4 mt-20">
                         <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15"> Beginner  </h5>
+                                <h5 class="mb-15 text-center"> Advanced  </h5>
                                 <p class="mb-10"><b>CourseDuration:</b> 12 Weeks</p>
                                 <p class="mb-10"><b>Mock Tests:</b>  Weekly</p>
                                 <ul>
@@ -101,7 +101,7 @@
                         </div>
                         <div class="col-md-6 col-lg-4 mt-20">
                         <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15"> Crash  </h5>
+                                <h5 class="mb-15 text-center"> Crash  </h5>
                                 <p class="mb-10"><b>CourseDuration:</b>4 Weeks</p>
                                 <p class="mb-10"><b>Mock Tests:</b>  Everyday
                                 </p>

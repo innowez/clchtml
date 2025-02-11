@@ -249,6 +249,22 @@
                     <a class="mt-auto" href="spoken-english.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
+            <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
+                <div class="coursesCard">
+                <a  href="toefl.php">
+                    <div class="imgBpx">
+                        <img src="assets/images/courses/courses-05.png" class="img-fluid w-100" alt="">
+                    </div>
+                </a>
+                    <div class="nameBoxWrapper">
+                        <div class="nameBox">
+                            <h6>TOEFL</h6>
+                        </div>
+                    </div>
+                    <p>The Test of English as a Foreign Language (TOEFL) is a globally recognized exam required for higher education, professional certification, and migration to English-speaking countries. At Creative Learning Centre (CLC), Calicut, we provide structured and result-oriented TOEFL coaching to help students maximize their scores with confidence.</p>
+                    <a class="mt-auto"  href="toefl.php"><h5 class="link"> Read More </h5></a>
+                </div>
+            </div>
         </div>
         <div class="row pt-90 justify-content-center">
             <div class="col-12 d-flex justify-content-center">
