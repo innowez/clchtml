@@ -72,6 +72,34 @@ $('.testimonialSlider02').slick({
 //Related Projects slider
 
 
+// slider
+$('.commonSlider').slick({
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    focusOnSelect: true,
+    autoplay: true,
+    infinite: true,
+    draggable: true,
+    swipeToSlide: true,
+    dots: false,
+    arrows:true,
+    appendArrows: $('.commonSlider-nav'),
+    pauseOnHover: true,
+    // centerMode: true,
+    autoplaySpeed: 3000,
+    // leftPadding: '200px',
+    responsive: [
+        {
+            breakpoint: 1299.98,
+            settings: {slidesToShow: 1,}
+        },
+        {
+            breakpoint: 575.98,
+            settings: {slidesToShow: 1,}
+        },
+    ]
+});
+
 
 //sticky header
 $(window).scroll(function () {

@@ -1760,6 +1760,9 @@ header.sticky {
   display: flex;
   flex-direction: column;
   height: 100%;
+  position: relative;
+  bottom: 0;
+  transition: 0.3s;
 }
 .coursesCard .imgBpx {
   border-radius: 5px;
@@ -1826,6 +1829,7 @@ header.sticky {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  transition: 0.3s;
   text-fill-color: transparent;
   font-weight: 600;
   text-align: center;
@@ -1837,6 +1841,10 @@ header.sticky {
   -webkit-text-fill-color: inherit;
   background-clip: inherit;
   color: #000;
+}
+.coursesCard:hover {
+  bottom: 5px;
+  box-shadow: 5px 15px 15px rgba(0, 0, 0, 0.09);
 }
 
 @media (max-width: 1399.98px) {
@@ -2458,6 +2466,73 @@ footer .social a {
   color: #ffffff;
   position: relative;
   z-index: 3;
+}
+
+.commonSlider .slick-list {
+  display: flex;
+  margin: 0 -15px;
+}
+.commonSlider div {
+  height: 100%;
+}
+.commonSlider .slick-track {
+  display: flex;
+  height: auto;
+}
+.commonSlider .slick-slide {
+  margin: 0 15px;
+}
+.commonSlider .coursesCard .imgBpx {
+  height: auto !important;
+}
+.commonSlider .coursesCard .nameBoxWrapper {
+  height: auto !important;
+}
+.commonSlider .coursesCard:hover {
+  bottom: 0;
+}
+
+.commonSlider-nav {
+  position: relative;
+  display: flex;
+  align-items: center;
+  grid-gap: 20px;
+  justify-content: center;
+  margin: 0;
+  margin-top: 30px;
+  padding: 0;
+}
+.commonSlider-nav .slick-arrow {
+  position: relative;
+  top: inherit;
+  left: inherit;
+  right: inherit;
+  bottom: inherit;
+  transform: inherit;
+  width: 50px;
+  height: 50px;
+}
+.commonSlider-nav .slick-prev {
+  width: 50px;
+  height: 50px;
+  background: #000 url(../images/svg/sliderPrev.svg) center no-repeat !important;
+  background-size: 30px !important;
+}
+.commonSlider-nav .slick-next {
+  width: 50px;
+  height: 50px;
+  background: #000 url(../images/svg/sliderNext.svg) center no-repeat !important;
+  background-size: 30px !important;
+}
+
+@media (max-width: 1199.98px) {
+  .commonSlider .slick-list {
+    display: flex;
+    margin: 0 -10px;
+  }
+  .commonSlider .slick-slide {
+    margin: 0 10px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

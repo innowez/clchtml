@@ -812,6 +812,9 @@ header.sticky{
   display: flex;
   flex-direction: column;
   height: 100%;
+  position: relative;
+  bottom: 0;
+  transition: .3s;
   .imgBpx{
     border-radius: 5px;
     overflow: hidden;
@@ -878,6 +881,7 @@ header.sticky{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    transition: .3s;
     text-fill-color: transparent;
     font-weight: 600;
     text-align: center;
@@ -889,6 +893,10 @@ header.sticky{
       background-clip: inherit;
       color: $black_color;
     }
+  }
+  &:hover{
+    bottom: 5px;
+    box-shadow: 5px 15px 15px rgba(0,0,0,.09);
   }
 }
 
@@ -1623,3 +1631,76 @@ footer{
   }
 }
 
+.commonSlider{
+  .slick-list {
+    display: flex;
+    margin: 0 -15px;
+  }
+  div{
+    height: 100%;
+  }
+  .slick-track {
+    display: flex;
+    height: auto
+  }
+  .slick-slide{
+    margin: 0 15px;
+  }
+  .coursesCard{
+    .imgBpx{
+      height: auto !important;
+    }
+    .nameBoxWrapper{
+      height: auto !important;
+    }
+    &:hover{
+      bottom: 0;
+    }
+  }
+}
+
+.commonSlider-nav{
+  position: relative;
+  display: flex;
+  align-items: center;
+  grid-gap: 20px;
+  justify-content: center;
+  margin: 0;
+  margin-top: 30px;
+  padding: 0;
+  .slick-arrow{
+    position: relative;
+    top: inherit;
+    left: inherit;
+    right: inherit;
+    bottom: inherit;
+    transform: inherit;
+    width: 50px;
+    height: 50px;
+  }
+  .slick-prev{
+    width: 50px;
+    height: 50px;
+    background: #000 url(../images/svg/sliderPrev.svg)center no-repeat !important;
+    background-size: 30px !important;
+  }
+  .slick-next{
+    width: 50px;
+    height: 50px;
+    background: #000 url(../images/svg/sliderNext.svg)center no-repeat !important;
+    background-size: 30px !important;
+  }
+}
+
+@media (max-width: 1199.98px){
+  .commonSlider{
+    .slick-list {
+      display: flex;
+      margin: 0 -10px;
+    }
+    .slick-slide{
+      margin: 0 10px;
+    }
+  }
+
+}

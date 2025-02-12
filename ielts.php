@@ -373,97 +373,130 @@ GET THE BEST IELTS TRAINING AND ACHIEVE YOUR OVERSEAS DREAMS</h4>
             </div>
         </div>
         <div class="row justify-content-center mt-20">
-            <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard">
-                    <div class="imgBpx">
-                        <img src="assets/images/courses/courses-01.png" class="img-fluid w-100" alt="">
-                    </div>
-                    <div class="nameBoxWrapper">
-                        <div class="nameBox">
-                            <h6>Patrical E. Garcia</h6>
-                            <p>(IELTS)</p>
+
+            <div class="col-12">
+                <div class="commonSlider">
+                    <div class="coursesCard">
+                        <div class="imgBpx">
+                            <img src="assets/images/courses/courses-01.png" class="img-fluid w-100" alt="">
                         </div>
+                        <div class="nameBoxWrapper">
+                            <div class="nameBox">
+                                <h6>Patrical E. Garcia</h6>
+                                <p>(IELTS)</p>
+                            </div>
+                        </div>
+                        <ul>
+                            <li>
+                                <div>Listening</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Reading</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Speaking</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Writing</div>
+                                <div>7.5</div>
+                            </li>
+                        </ul>
                     </div>
-                    <ul>
-                        <li>
-                            <div>Listening</div>
-                            <div>7.5</div>
-                        </li>
-                        <li>
-                            <div>Reading</div>
-                            <div>7.5</div>
-                        </li>
-                        <li>
-                            <div>Speaking</div>
-                            <div>7.5</div>
-                        </li>
-                        <li>
-                            <div>Writing</div>
-                            <div>7.5</div>
-                        </li>
-                    </ul>
+                    <div class="coursesCard">
+                        <div class="imgBpx">
+                            <img src="assets/images/courses/courses-02.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="nameBoxWrapper">
+                            <div class="nameBox">
+                                <h6>Patrical E. Garcia</h6>
+                                <p>(IELTS)</p>
+                            </div>
+                        </div>
+                        <ul>
+                            <li>
+                                <div>Listening</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Reading</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Speaking</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Writing</div>
+                                <div>7.5</div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="coursesCard">
+                        <div class="imgBpx">
+                            <img src="assets/images/courses/courses-03.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="nameBoxWrapper">
+                            <div class="nameBox">
+                                <h6>Patrical E. Garcia</h6>
+                                <p>(IELTS)</p>
+                            </div>
+                        </div>
+                        <ul>
+                            <li>
+                                <div>Listening</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Reading</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Speaking</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Writing</div>
+                                <div>7.5</div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="coursesCard">
+                        <div class="imgBpx">
+                            <img src="assets/images/courses/courses-03.png" class="img-fluid w-100" alt="">
+                        </div>
+                        <div class="nameBoxWrapper">
+                            <div class="nameBox">
+                                <h6>Patrical E. Garcia</h6>
+                                <p>(IELTS)</p>
+                            </div>
+                        </div>
+                        <ul>
+                            <li>
+                                <div>Listening</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Reading</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Speaking</div>
+                                <div>7.5</div>
+                            </li>
+                            <li>
+                                <div>Writing</div>
+                                <div>7.5</div>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard">
-                    <div class="imgBpx">
-                        <img src="assets/images/courses/courses-02.png" class="img-fluid w-100" alt="">
-                    </div>
-                    <div class="nameBoxWrapper">
-                        <div class="nameBox">
-                            <h6>Patrical E. Garcia</h6>
-                            <p>(IELTS)</p>
-                        </div>
-                    </div>
-                    <ul>
-                        <li>
-                            <div>Listening</div>
-                            <div>7.5</div>
-                        </li>
-                        <li>
-                            <div>Reading</div>
-                            <div>7.5</div>
-                        </li>
-                        <li>
-                            <div>Speaking</div>
-                            <div>7.5</div>
-                        </li>
-                        <li>
-                            <div>Writing</div>
-                            <div>7.5</div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div data-aos="fade-up" data-aos-duration="3000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard">
-                    <div class="imgBpx">
-                        <img src="assets/images/courses/courses-03.png" class="img-fluid w-100" alt="">
-                    </div>
-                    <div class="nameBoxWrapper">
-                        <div class="nameBox">
-                            <h6>Patrical E. Garcia</h6>
-                            <p>(IELTS)</p>
-                        </div>
-                    </div>
-                    <ul>
-                        <li>
-                            <div>Listening</div>
-                            <div>7.5</div>
-                        </li>
-                        <li>
-                            <div>Reading</div>
-                            <div>7.5</div>
-                        </li>
-                        <li>
-                            <div>Speaking</div>
-                            <div>7.5</div>
-                        </li>
-                        <li>
-                            <div>Writing</div>
-                            <div>7.5</div>
-                        </li>
-                    </ul>
+            <div class="row">
+                <div class="col-12">
+                    <div class="commonSlider-nav"></div>
                 </div>
             </div>
         </div>
