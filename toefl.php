@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="courseBannerWrap">
-                    <img src="assets/images/courses/courses-05.jpg" class="img-fluid w-100" alt="">
+                    <img src="assets/images/courses/toefl.jpg" class="img-fluid w-100" alt="">
                     <h1 class="color_white fw-bold font-size-48 mb-10">TOEFL Coaching at Calicut Creative Learning Centre (CLC)</h1>
                     <p>  Achieve Your Dream TOEFL Score with CLC’s Expert Training!</p>
                 </div>
