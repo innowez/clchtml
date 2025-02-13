@@ -10,7 +10,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="courseBannerWrap">
-                    <img src="assets/images/courses/courses-01-big.jpg" class="img-fluid w-100" alt="">
+                    <img src="assets/images/courses/courses-01.jpg" class="img-fluid w-100" alt="">
                     <h1 class="color_white fw-bold font-size-48 mb-10">EXPAND YOUR CAREER & STUDY OPPORTUNITIES IN GERMANY</h1>
                     <p>Mastering the German language opens doors to exciting career and education opportunities in Germany and beyond! Whether you’re planning to study, work, or migrate, our expert-led training helps you easily achieve fluency. Join our German language training today and take the first step toward your global future.</p>
                   </div>
