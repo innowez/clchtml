@@ -102,7 +102,7 @@
                 <div class="coursesCard">
                 <a  href="toefl.php">
                     <div class="imgBpx">
-                        <img src="assets/images/courses/courses-05.png" class="img-fluid w-100" alt="">
+                        <img src="assets/images/courses/courses-06.png" class="img-fluid w-100" alt="">
                     </div>
                 </a>
                 <a href="toefl.php" class="nameBoxWrapper">
