@@ -22,10 +22,11 @@
             <div class="col-6 col-md-5 col-lg-2 mt-40 order-md-2 order-2">
                 <h5 class="color_white fw-bold">Courses</h5>
                 <ul>
-                    <li><a href="ielts.php">IELTS</a></li>
-                    <li><a href="oet.php">OTE</a></li>
-                    <li><a href="pte.php">PTE</a></li>
                     <li><a href="german.php">German</a></li>
+                    <li><a href="pte.php">PTE</a></li>
+                    <li><a href="ielts.php">IELTS</a></li>
+                    <li><a href="oet.php">OET</a></li>
+                    <li><a href="toefl.php">TOEFL</a></li>
                     <li><a href="spoken-english.php">Spoken English</a></li>
                 </ul>
             </div>

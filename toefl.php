@@ -73,7 +73,7 @@
                         <div class="col-md-6 col-lg-4 mt-20">
                             <div class="coachingFormat   textWrapper">
                             <h5 class="mb-15 text-center"> Beginner  </h5>
-                            <p class="mb-10 text-center"><b>CourseDuration: </b>1 Month</p>
+                            <p class="mb-10 text-center"><b>Course duration: </b>1 Month</p>
                                 <ul>
                                     <li>
                                         <b>Structured Curriculum: </b> 
@@ -97,7 +97,7 @@
                         <div class="col-md-6 col-lg-4 mt-20">
                         <div class="coachingFormat  textWrapper">
                                 <h5 class="mb-15 text-center"> Advanced   </h5>
-                                <p class="mb-10 text-center"><b>CourseDuration: </b>2 Months</p>
+                                <p class="mb-10 text-center"><b>Course duration: </b>2 Months</p>
                                 <ul>
                                     <li>
                                         <b>Comprehensive Skill Building : </b> 
@@ -121,7 +121,7 @@
                         <div class="col-md-6 col-lg-4 mt-20">
                         <div class="coachingFormat  textWrapper">
                                 <h5 class="mb-15 text-center"> Crash  </h5>
-                                <p class="mb-10 text-center"><b>CourseDuration: </b>3 MONTHS</p>
+                                <p class="mb-10 text-center"><b>Course duration: </b>3 MONTHS</p>
                                 <ul>
                                     <li>
                                         <b>-Foundation in English Skills: </b> 
@@ -201,7 +201,7 @@
                     <div class="col-lg-6">
                         <div class="spaceBox">
                             <h3 class="color_white fw-bold">Limited Seats Book Your Now.</h3>
-                            <p class="mt-20">Admissions are now open for the month of October and November </p>
+                            <p class="mt-20">Admissions are now open for the month of February and March </p>
                             <a href="https://wa.me/919605833311" class="primary_btn mt-40"> whatsapp Now </a>
                         </div>
                     </div>
@@ -322,8 +322,8 @@
 <!--    <div class="container position-relative ">-->
 <!--        <div class="row justify-content-center">-->
 <!--            <div class="col-lg-9 text-center">-->
-<!--                <h3 class="color_white fw-bold mt-20">Study Abroad Excellence: Result That Inspire</h3>-->
-<!--                <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi autem blanditiis commodi culpa distinctio eligendi incidunt itaque, iusto nulla perferendis perspiciatis quam rem sapiente similique sint tenetur veritatis voluptatem voluptatum.</p>-->
+<!--                <h3 class="color_white fw-bold mt-20">Academic  Excellence: Results That Inspire</h3>-->
+<!--                <p class="mt-20">At CLC, we foster academic excellence through quality education and expert guidance. Our students consistently achieve top results, secure prestigious scholarships, and gain admission to leading universities. With a strong commitment to success, we turn ambitions into achievements.</p>-->
 <!--            </div>-->
 <!--        </div>-->
 <!--        <div class="row justify-content-center mt-20">-->

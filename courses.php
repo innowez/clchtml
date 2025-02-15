@@ -19,6 +19,38 @@
         <div class="row justify-content-center mt-20">
             <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
+                <a  href="german.php">
+                    <div class="imgBpx">
+                        <img src="assets/images/courses/courses-04.png" class="img-fluid w-100" alt="">
+                    </div>
+                </a>
+                <a href="german.php" class="nameBoxWrapper">
+                        <div class="nameBox">
+                            <h6>German</h6>
+                        </div>
+                    </a>
+                    <p>A new opportunity is unfolding for the German Language course. For beginners and also for those who wish to improve upon their already learned language skills, this course offers general knowledge from grammar, and vocabulary, to conversational fluency. Expert guidance and interesting lessons make learning German engaging and effective and impart new skills for personal, academic, or professional development.</p>
+                    <a class="mt-auto" href="german.php"><h5 class="link"> Read More </h5></a>
+                </div>
+            </div>
+            <div data-aos="fade-up" data-aos-duration="3000" class="col-sm-6 col-lg-4 mt-40">
+                <div class="coursesCard">
+                <a  href="pte.php">
+                    <div class="imgBpx">
+                        <img src="assets/images/courses/courses-03.png" class="img-fluid w-100" alt="">
+                    </div>
+                </a>
+                <a href="pte.php" class="nameBoxWrapper">
+                        <div class="nameBox">
+                            <h6>PTE</h6>
+                        </div>
+                </a>
+                    <p>Our PTE coaching prepares you for success by unlocking your potential. The program highly focuses on Speaking, Writing, Reading, and Listening, with strategies for each module. Score well with Personal Guide, mock exams, and sure-shot techniques to do well in the Pearson Test of English.</p>
+                    <a class="mt-auto" href="pte.php"><h5 class="link"> Read More </h5></a>
+                </div>
+            </div>
+            <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
+                <div class="coursesCard">
                 <a  href="ielts.php">
                     <div class="imgBpx">
                         <img src="assets/images/courses/courses-01.png" class="img-fluid w-100" alt="">
@@ -50,54 +82,6 @@
                     <a class="mt-auto" href="oet.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="3000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard">
-                <a  href="pte.php">
-                    <div class="imgBpx">
-                        <img src="assets/images/courses/courses-03.png" class="img-fluid w-100" alt="">
-                    </div>
-                </a>
-                <a href="pte.php" class="nameBoxWrapper">
-                        <div class="nameBox">
-                            <h6>PTE</h6>
-                        </div>
-                </a>
-                    <p>Our PTE coaching prepares you for success by unlocking your potential. The program highly focuses on Speaking, Writing, Reading, and Listening, with strategies for each module. Score well with Personal Guide, mock exams, and sure-shot techniques to do well in the Pearson Test of English.</p>
-                    <a class="mt-auto" href="pte.php"><h5 class="link"> Read More </h5></a>
-                </div>
-            </div>
-            <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard">
-                <a  href="german.php">
-                    <div class="imgBpx">
-                        <img src="assets/images/courses/courses-04.png" class="img-fluid w-100" alt="">
-                    </div>
-                </a>
-                <a href="german.php" class="nameBoxWrapper">
-                        <div class="nameBox">
-                            <h6>German</h6>
-                        </div>
-                    </a>
-                    <p>A new opportunity is unfolding for the German Language course. For beginners and also for those who wish to improve upon their already learned language skills, this course offers general knowledge from grammar, and vocabulary, to conversational fluency. Expert guidance and interesting lessons make learning German engaging and effective and impart new skills for personal, academic, or professional development.</p>
-                    <a class="mt-auto" href="german.php"><h5 class="link"> Read More </h5></a>
-                </div>
-            </div>
-            <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
-                <div class="coursesCard">
-                <a  href="spoken-english.php">
-                    <div class="imgBpx">
-                        <img src="assets/images/courses/courses-05.png" class="img-fluid w-100" alt="">
-                    </div>
-                </a>
-                <a href="spoken-english.php" class="nameBoxWrapper">
-                        <div class="nameBox">
-                            <h6>Spoken English</h6>
-                        </div>
-                    </a>
-                    <p>Learn how to speak fluently through combining spoken English statements. The actual lesson is aimed at bringing up vocabulary and pronunciation in conversational level. Enhancing fluency in personal, academic, and professional settings with expert guidance and interactive learning methods.</p>
-                    <a class="mt-auto" href="spoken-english.php"><h5 class="link"> Read More </h5></a>
-                </div>
-            </div>
             <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
                 <a  href="toefl.php">
@@ -114,6 +98,24 @@
                     <a class="mt-auto"  href="toefl.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
+            
+            <div data-aos="fade-up" data-aos-duration="2000" class="col-sm-6 col-lg-4 mt-40">
+                <div class="coursesCard">
+                <a  href="spoken-english.php">
+                    <div class="imgBpx">
+                        <img src="assets/images/courses/courses-05.png" class="img-fluid w-100" alt="">
+                    </div>
+                </a>
+                <a href="spoken-english.php" class="nameBoxWrapper">
+                        <div class="nameBox">
+                            <h6>Spoken English</h6>
+                        </div>
+                    </a>
+                    <p>Learn how to speak fluently through combining spoken English statements. The actual lesson is aimed at bringing up vocabulary and pronunciation in conversational level. Enhancing fluency in personal, academic, and professional settings with expert guidance and interactive learning methods.</p>
+                    <a class="mt-auto" href="spoken-english.php"><h5 class="link"> Read More </h5></a>
+                </div>
+            </div>
+           
         </div>
 
         <div class="row mt-60 justify-content-center">
@@ -146,7 +148,7 @@
                     <div class="col-lg-6">
                         <div class="spaceBox">
                             <h3 class="color_white fw-bold">Limited Seats Book Your Now.</h3>
-                            <p class="mt-20">Admissions are now open for the month of October and November </p>
+                            <p class="mt-20">Admissions are now open for the month of February and March </p>
                             <a href="https://wa.me/919605833311" class="primary_btn mt-40"> whatsapp Now </a>
                         </div>
                     </div>
