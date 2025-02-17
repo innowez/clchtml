@@ -10,13 +10,13 @@
                 <h2 class="color_white mt-20">What do you want to learn?</h2>
                 <form action="" class="mt-30">
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search Courses">
+                        <input type="text" id="myInput"  onkeyup="myFunction()" class="form-control" placeholder="Search Courses">
                         <button class="primary_btn">Search</button>
                     </div>
                 </form>
             </div>
         </div>
-        <div class="row justify-content-center mt-20">
+        <div class="row justify-content-center mt-20" id="myUL">
             <div data-aos="fade-up" data-aos-duration="1000" class="col-sm-6 col-lg-4 mt-40">
                 <div class="coursesCard">
                 <a  href="german.php">
@@ -205,5 +205,27 @@
 
 <?php include('assets/includes/footer.php') ?>
 <?php include('assets/includes/footer-cdn.php') ?>
+<script>
+function myFunction() {
+    var input, filter, cards, title, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    
+    // Get all course cards directly from the page
+    cards = document.querySelectorAll(".coursesCard");
+
+    for (i = 0; i < cards.length; i++) {
+        title = cards[i].querySelector(".nameBox h6");
+        if (title) {
+            txtValue = title.textContent || title.innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                cards[i].parentElement.style.display = "";
+            } else {
+                cards[i].parentElement.style.display = "none";
+            }
+        }
+    }
+}
+</script>
 
 <script src="assets/js/active-courses-menu.js"></script>

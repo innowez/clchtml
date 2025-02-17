@@ -13,7 +13,7 @@
                 <div class="courseBannerWrap">
                     <img src="assets/images/courses/3.jpg" class="img-fluid w-100" alt="">
                     <h1 class="color_white fw-bold font-size-48 mb-10">SCORE HIGH IN PTE WITH THE RIGHT STRATEGY</h1>
-                    <p>Unlock your potential and achieve your desired PTE score with expert coaching.Our structured training focuses on smart strategies, real exam practice, and personalized feedback to help you excel in all modules—Speaking, Writing, Reading, and Listening. With proven techniques and expert guidance, success is within your reach. Join us today and take a step closer to your global dreams.</p>
+                    <p>Unlock your potential and achieve your desired PTE score with expert coaching Our structured training focuses on smart strategies, real exam practice, and personalized feedback to help you excel in all modules—Speaking, Writing, Reading, and Listening. With proven techniques and expert guidance, success is within your reach. Join us today and take a step closer to your global dreams.</p>
                </div>
             </div>
         </div>
@@ -66,12 +66,12 @@ JOIN OUR EXPERT-LED COACHING AND ACHIEVE YOUR GOALS
             <div class="col-12">
                 <div class="coachingWrap">
                     <h4 class="color_white fw-bold text-center">Tailored PTE Coaching Formats for Your Needs</h4>
-                    <p class="text-center mt-15">Feeling anxious about the IELTS test? CLC simplifies the four different IELTS modules to accommodate various learning styles. Take IELTS easily with the best IELTS Coaching centre in Kozhikode, Kerala.</p>
+                    <p class="text-center mt-15">Worried about the PTE exam? At CLC, we simplify the four PTE modules with structured techniques to match different learning styles. Our expert trainers, personalized guidance, and practice-driven approach ensure a smooth and stress-free learning experience. Achieve your target score with confidence at the best PTE coaching centre in Kozhikode, Kerala!</p>
                    <div class="row mt-10 justify-content-center">
                         <div class="col-md-6 col-lg-4 mt-20">
                             <div class="coachingFormat  textWrapper">
                                 <h5 class="mb-15 text-center"> Beginner  </h5>
-                                <p class="mb-10"><b>Course duration:</b> 8 Weeks</p>
+                                <p class="mb-10"><b>Course duration:</b> 12 Weeks</p>
                                 <p class="mb-10"><b>Mock Tests:</b>  weekly</p>
                                 <ul>
                                     <li>Basic grammar & vocabulary </li>
@@ -85,18 +85,18 @@ JOIN OUR EXPERT-LED COACHING AND ACHIEVE YOUR GOALS
                         </div>
                         <div class="col-md-6 col-lg-4 mt-20">
                         <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15 text-center"> Advanced  </h5>
+                                <h5 class="mb-15 text-center"> Intermediate     </h5>
                                 <p class="mb-10"><b>Course duration:</b> 12 Weeks</p>
                                 <p class="mb-10"><b>Mock Tests:</b>  Weekly</p>
                                 <ul>
-                                    <li>Advanced writing techniques
+                                    <li>Speaking & Pronunciation – Fluency, oral fluency tasks, repeat sentence, describe image, and retell lecture
                                     </li>
-                                    <li>Fluency-focused speaking sessions
+                                    <li>Listening Skills – Summarizing spoken text, fill in the blanks, highlight incorrect words, and write from dictation.
                                     </li>
-                                    <li>Time management strategies
+                                    <li>Reading Strategies – Multiple-choice, re-order paragraphs, fill in the blanks, and quick comprehension techniques
 
                                     </li>
-                                    <li>In-depth reading comprehension
+                                    <li> Writing & Mock Tests – Summarize written text, essay writing, and full-length practice tests for exam readiness
 
                                     </li>
                                 </ul>

@@ -65,59 +65,67 @@
                     <h4 class="color_white fw-bold text-center">Tailored German Coaching Formats for Your Needs</h4>
                     <!-- <p class="text-center mt-15">Feeling anxious about the IELTS test? CLC simplifies the four different IELTS modules to accommodate various learning styles. Take IELTS easily with the best IELTS Coaching centre in Kozhikode, Kerala.</p> -->
                     <div class="row mt-10 justify-content-center">
-                        <div class="col-md-6 col-lg-4 mt-20">
+                        <div class="col-md-3 col-lg-4 mt-20">
                             <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15 text-center"> Beginner  </h5>
-                                <p class="mb-10"><b>Course duration:</b> 8 Weeks</p>
-                                <p class="mb-10"><b>Mock Tests:</b>  weekly</p>
+                                <h5 class="mb-15 text-center"> A1  </h5>
+                                <p class="mb-10"><b>Course duration:</b> 6 to 8 weeks </p>
+                              
                                 <ul >
-                                    <li>Basic grammar & vocabulary </li>
-                                    <li>Speaking practice for beginners </li>
-                                    <li>Listening exercises with transcripts
-                                    </li>
-                                    <li>Simple writing & reading tasks
-                                    </li>
+                                    <li><b>Mock Tests:</b> Basic grammar, vocabulary, sentence structure, everyday conversations and more </li>
+                                    <li><b>Speaking Practice:</b> Role-plays, daily life scenarios, pronunciation drills. </li>
+                                    <li><b>Listening & Reading:</b> Comprehension exercises, dialogues, and short texts. </li>
+                                    <li><b>Writing:</b> Simple sentences, emails, and short paragraphs.</li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-4 mt-20">
-                        <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15 text-center"> Advanced  </h5>
-                                <p class="mb-10"><b>Course duration:</b> 12 Weeks</p>
-                                <p class="mb-10"><b>Mock Tests:</b>  Weekly</p>
-                                <ul>
-                                    <li>Advanced writing techniques
-                                    </li>
-                                    <li>Fluency-focused speaking sessions
-                                    </li>
-                                    <li>Time management strategies
-
-                                    </li>
-                                    <li>In-depth reading comprehension
-
-                                    </li>
-                                </ul>
+                        <div class="col-md-3 col-lg-4 mt-20">
+                            <div class="coachingFormat textWrapper">
+                                <h5 class="mb-15 text-center">A1</h5>
+                                <p class="mb-10"><b>Duration:</b> 6 to 8 weeks</p>
+                                <p><b>Topics Covered:</b> Basic grammar, vocabulary, sentence structure, everyday conversations, and more.</p>
+                                <p><b>Speaking Practice:</b> Role-plays, daily life scenarios, pronunciation drills.</p>
+                                <p><b>Listening & Reading:</b> Comprehension exercises, dialogues, and short texts.</p>
+                                <p><b>Writing:</b> Simple sentences, emails, and short paragraphs.</p>
+                                <p><b>Mock Exam:</b> Final week covering Listening, Reading, Writing, and Speaking.</p>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-4 mt-20">
-                        <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15 text-center"> Crash  </h5>
-                                <p class="mb-10"><b>Course duration:</b>4 Weeks</p>
-                                <p class="mb-10"><b>Mock Tests:</b>  Everyday
-                                </p>
-                                <ul>
-                                    <li>Intensive exam strategies
-                                    </li>
-                                    <li>Daily speaking practice
-                                    </li>
-                                    <li>Timed mock test simulations
 
-                                    </li>
-                                    <li>Writing feedback & corrections
-                                    </li>
-                                </ul>
+                        <div class="col-md-3 col-lg-4 mt-20">
+                            <div class="coachingFormat textWrapper">
+                                <h5 class="mb-15 text-center">A2</h5>
+                                <p class="mb-10"><b>Duration:</b> 6 to 8 weeks</p>
+                                <p><b>Topics Covered:</b> Extended grammar, past & future tenses, modal verbs, and complex sentences.</p>
+                                <p><b>Speaking Practice:</b> Conversations on daily life, travel, workplace, and basic discussions.</p>
+                                <p><b>Listening & Reading:</b> Longer dialogues, short articles, and audio exercises.</p>
+                                <p><b>Writing:</b> Emails, invitations, complaints, and structured paragraphs.</p>
+                                <p><b>Mock Exam:</b> Final week covering Listening, Reading, Writing, and Speaking.</p>
                             </div>
                         </div>
+
+                        <div class="col-md-3 col-lg-4 mt-20">
+                            <div class="coachingFormat textWrapper">
+                                <h5 class="mb-15 text-center">B1</h5>
+                                <p class="mb-10"><b>Duration:</b> 8 to 10 weeks</p>
+                                <p><b>Topics Covered:</b> Advanced grammar (subordinate clauses, passive voice, indirect speech), workplace and daily communication.</p>
+                                <p><b>Speaking Practice:</b> Discussions on social topics, expressing opinions, job interviews, and presentations.</p>
+                                <p><b>Listening & Reading:</b> Complex dialogues, news articles, workplace communication, and real-life scenarios.</p>
+                                <p><b>Writing:</b> Formal & informal letters, job applications, essays, and structured reports.</p>
+                                <p><b>Mock Exam:</b> Final week covering Listening, Reading, Writing, and Speaking.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-lg-4 mt-20">
+                            <div class="coachingFormat textWrapper">
+                                <h5 class="mb-15 text-center">B2</h5>
+                                <p class="mb-10"><b>Duration:</b> 8 to 10 weeks</p>
+                                <p><b>Topics Covered:</b> Complex grammar (Konjunktiv II, passive structures, advanced connectors), professional and academic communication.</p>
+                                <p><b>Speaking Practice:</b> Debates, presentations, expressing abstract ideas, and workplace discussions.</p>
+                                <p><b>Listening & Reading:</b> News reports, academic texts, workplace conversations, and advanced comprehension exercises.</p>
+                                <p><b>Writing:</b> Essays, formal letters, reports, summaries, and argument-based texts.</p>
+                                <p><b>Mock Exam:</b> Final week covering Listening, Reading, Writing, and Speaking.</p>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
