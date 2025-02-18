@@ -65,66 +65,68 @@
                     <h4 class="color_white fw-bold text-center">Tailored German Coaching Formats for Your Needs</h4>
                     <!-- <p class="text-center mt-15">Feeling anxious about the IELTS test? CLC simplifies the four different IELTS modules to accommodate various learning styles. Take IELTS easily with the best IELTS Coaching centre in Kozhikode, Kerala.</p> -->
                     <div class="row mt-10 justify-content-center">
-                        <div class="col-md-3 col-lg-4 mt-20">
-                            <div class="coachingFormat  textWrapper">
-                                <h5 class="mb-15 text-center"> A1  </h5>
-                                <p class="mb-10"><b>Course duration:</b> 6 to 8 weeks </p>
-                              
-                                <ul >
-                                    <li><b>Mock Tests:</b> Basic grammar, vocabulary, sentence structure, everyday conversations and more </li>
-                                    <li><b>Speaking Practice:</b> Role-plays, daily life scenarios, pronunciation drills. </li>
-                                    <li><b>Listening & Reading:</b> Comprehension exercises, dialogues, and short texts. </li>
-                                    <li><b>Writing:</b> Simple sentences, emails, and short paragraphs.</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-lg-4 mt-20">
-                            <div class="coachingFormat textWrapper">
-                                <h5 class="mb-15 text-center">A1</h5>
-                                <p class="mb-10"><b>Duration:</b> 6 to 8 weeks</p>
-                                <p><b>Topics Covered:</b> Basic grammar, vocabulary, sentence structure, everyday conversations, and more.</p>
-                                <p><b>Speaking Practice:</b> Role-plays, daily life scenarios, pronunciation drills.</p>
-                                <p><b>Listening & Reading:</b> Comprehension exercises, dialogues, and short texts.</p>
-                                <p><b>Writing:</b> Simple sentences, emails, and short paragraphs.</p>
-                                <p><b>Mock Exam:</b> Final week covering Listening, Reading, Writing, and Speaking.</p>
-                            </div>
-                        </div>
+                    <div class="col-md-3 col-lg-4 mt-20">
+    <div class="coachingFormat textWrapper">
+        <h5 class="mb-15 text-center">A1</h5>
+        <p class="mb-10"><b>Duration:</b> 6 to 8 weeks</p>
+        <p class="mb-10"><b>Mode:</b> Online/Offline/Hybrid</p>
+        <ul>
+            <li><b>Topics Covered:</b> Basic grammar, vocabulary, sentence structure, everyday conversations and more.</li>
+            <li><b>Speaking Practice:</b> Role-plays, daily life scenarios, pronunciation drills.</li>
+            <li><b>Listening & Reading:</b> Comprehension exercises, dialogues, and short texts.</li>
+            <li><b>Writing:</b> Simple sentences, emails, and short paragraphs.</li>
+            <li><b>Mock Exam:</b> Conducted in the final week, covering all four modules (Listening, Reading, Writing, Speaking).</li>
+        </ul>
+    </div>
+</div>
 
-                        <div class="col-md-3 col-lg-4 mt-20">
-                            <div class="coachingFormat textWrapper">
-                                <h5 class="mb-15 text-center">A2</h5>
-                                <p class="mb-10"><b>Duration:</b> 6 to 8 weeks</p>
-                                <p><b>Topics Covered:</b> Extended grammar, past & future tenses, modal verbs, and complex sentences.</p>
-                                <p><b>Speaking Practice:</b> Conversations on daily life, travel, workplace, and basic discussions.</p>
-                                <p><b>Listening & Reading:</b> Longer dialogues, short articles, and audio exercises.</p>
-                                <p><b>Writing:</b> Emails, invitations, complaints, and structured paragraphs.</p>
-                                <p><b>Mock Exam:</b> Final week covering Listening, Reading, Writing, and Speaking.</p>
-                            </div>
-                        </div>
+<div class="col-md-3 col-lg-4 mt-20">
+    <div class="coachingFormat textWrapper">
+        <h5 class="mb-15 text-center">A2</h5>
+        <p class="mb-10"><b>Duration:</b> 6 to 8 weeks</p>
+        <p class="mb-10"><b>Mode:</b> Online/Offline/Hybrid</p>
+        <ul>
+            <li><b>Topics Covered:</b> Extended grammar, past & future tenses, modal verbs, and complex sentences and more.</li>
+            <li><b>Speaking Practice:</b> Conversations on daily life, travel, workplace, and basic discussions.</li>
+            <li><b>Listening & Reading:</b> Longer dialogues, short articles, and audio exercises.</li>
+            <li><b>Writing:</b> Emails, invitations, complaints, and structured paragraphs.</li>
+            <li><b>Mock Exam:</b> Conducted in the final week, covering all four modules (Listening, Reading, Writing, Speaking).</li>
+        </ul>
+    </div>
+</div>
 
-                        <div class="col-md-3 col-lg-4 mt-20">
-                            <div class="coachingFormat textWrapper">
-                                <h5 class="mb-15 text-center">B1</h5>
-                                <p class="mb-10"><b>Duration:</b> 8 to 10 weeks</p>
-                                <p><b>Topics Covered:</b> Advanced grammar (subordinate clauses, passive voice, indirect speech), workplace and daily communication.</p>
-                                <p><b>Speaking Practice:</b> Discussions on social topics, expressing opinions, job interviews, and presentations.</p>
-                                <p><b>Listening & Reading:</b> Complex dialogues, news articles, workplace communication, and real-life scenarios.</p>
-                                <p><b>Writing:</b> Formal & informal letters, job applications, essays, and structured reports.</p>
-                                <p><b>Mock Exam:</b> Final week covering Listening, Reading, Writing, and Speaking.</p>
-                            </div>
-                        </div>
+<div class="col-md-3 col-lg-4 mt-20">
+    <div class="coachingFormat textWrapper">
+        <h5 class="mb-15 text-center">B1</h5>
+        <p class="mb-10"><b>Duration:</b> 8 to 10 weeks</p>
+        <p class="mb-10"><b>Mode:</b> Online/Offline/Hybrid</p>
+        <ul>
+            <li><b>Topics Covered:</b> Advanced grammar (subordinate clauses, passive voice, indirect speech), workplace and daily communication and more.</li>
+            <li><b>Speaking Practice:</b> Discussions on social topics, expressing opinions, job interviews, and presentations.</li>
+            <li><b>Listening & Reading:</b> Complex dialogues, news articles, workplace communication, and real-life scenarios.</li>
+            <li><b>Writing:</b> Formal & informal letters, job applications, essays, and structured reports.</li>
+            <li><b>Mock Exam:</b> Conducted in the final week, covering all four modules (Listening, Reading, Writing, Speaking).</li>
+        </ul>
+    </div>
+</div>
 
-                        <div class="col-md-3 col-lg-4 mt-20">
-                            <div class="coachingFormat textWrapper">
-                                <h5 class="mb-15 text-center">B2</h5>
-                                <p class="mb-10"><b>Duration:</b> 8 to 10 weeks</p>
-                                <p><b>Topics Covered:</b> Complex grammar (Konjunktiv II, passive structures, advanced connectors), professional and academic communication.</p>
-                                <p><b>Speaking Practice:</b> Debates, presentations, expressing abstract ideas, and workplace discussions.</p>
-                                <p><b>Listening & Reading:</b> News reports, academic texts, workplace conversations, and advanced comprehension exercises.</p>
-                                <p><b>Writing:</b> Essays, formal letters, reports, summaries, and argument-based texts.</p>
-                                <p><b>Mock Exam:</b> Final week covering Listening, Reading, Writing, and Speaking.</p>
-                            </div>
-                        </div>
+<div class="col-md-3 col-lg-4 mt-20">
+    <div class="coachingFormat textWrapper">
+        <h5 class="mb-15 text-center">B2</h5>
+        <p class="mb-10"><b>Duration:</b> 8 to 10 weeks</p>
+        <ul>
+            <li><b>Listening (Hörverstehen):</b> Understanding complex audio texts (interviews, podcasts, discussions). Recognizing opinions, arguments, and implied meanings. Exam-style practice (Goethe, TELC, ÖSD formats).</li>
+            <li><b>Reading (Leseverstehen):</b> Comprehending newspaper articles, formal emails, academic texts, and reports. Identifying key points, arguments, and contextual meanings. Strategies for fast reading & inference skills.</li>
+            <li><b>Writing (Schreiben):</b> Writing formal emails, reports, essays, and letters. Expressing opinions with supporting arguments. Grammar focus: complex sentence structures, connectors.</li>
+            <li><b>Speaking (Sprechen):</b> Structured conversations (debates, discussions, role-plays). Describing trends, giving presentations, discussing pros/cons. Exam-style speaking practice (picture description, opinion expression).</li>
+            <li><b>Grammar Focus (Grammatiktraining):</b> Subjunctive (Konjunktiv II) for polite speech & hypothetical situations. Passive voice, relative clauses, and noun-verb connections. Prepositions with cases, sentence connectors, and word order.</li>
+            <li><b>Exam Preparation (Prüfungstraining):</b> Mock tests with detailed feedback. Exam strategy workshops. Individualized error correction.</li>
+            <li><b>Vocabulary & Idiomatic Expressions (Wortschatz & Redewendungen):</b> Expanding topic-specific vocabulary (health, work, society, technology). Learning common idioms and colloquial phrases for natural communication. Synonyms, antonyms, and paraphrasing techniques for fluency.</li>
+            <li><b>Additional Learning Support:</b> Online learning platform (recorded lessons, worksheets). Group discussions and peer-learning activities. Weekly progress assessments.</li>
+        </ul>
+    </div>
+</div>
+
 
                     </div>
                 </div>
